@@ -1,0 +1,2407 @@
+{
+  "success": true,
+  "keyword": "나주 술집",
+  "count": 300,
+  "results": [
+    {
+      "rank": 1,
+      "url": "https://m.place.naver.com/place/1416037874",
+      "name": "연주가",
+      "visitorReviews": 60,
+      "blogReviews": 74,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://m.place.naver.com/place/1408868517",
+      "name": "스페샬나잇트 나주혁신점",
+      "visitorReviews": 751,
+      "blogReviews": 217,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://m.place.naver.com/place/1432461756",
+      "name": "비스트로상야",
+      "visitorReviews": 394,
+      "blogReviews": 368,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://m.place.naver.com/place/1175683928",
+      "name": "정각 나주 본점",
+      "visitorReviews": 482,
+      "blogReviews": 120,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://m.place.naver.com/place/1246449662",
+      "name": "재주",
+      "visitorReviews": 23,
+      "blogReviews": 32,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 6,
+      "url": "https://m.place.naver.com/place/1942663959",
+      "name": "정다운&깨비방망이 오리날개튀김",
+      "visitorReviews": 43,
+      "blogReviews": 64,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 7,
+      "url": "https://m.place.naver.com/place/1659328567",
+      "name": "빛가람 맥주",
+      "visitorReviews": 74,
+      "blogReviews": 56,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 8,
+      "url": "https://m.place.naver.com/place/1915401502",
+      "name": "25센치꼬치앤오뎅바 나주혁신점",
+      "visitorReviews": 63,
+      "blogReviews": 11,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 9,
+      "url": "https://m.place.naver.com/place/1753206334",
+      "name": "쏘시지요 나주혁신점",
+      "visitorReviews": 43,
+      "blogReviews": 18,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 10,
+      "url": "https://m.place.naver.com/place/2067874013",
+      "name": "야키토리요시",
+      "visitorReviews": 6,
+      "blogReviews": 12,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 11,
+      "url": "https://m.place.naver.com/place/1374871125",
+      "name": "청담이상 나주혁신점",
+      "visitorReviews": 152,
+      "blogReviews": 29,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 12,
+      "url": "https://m.place.naver.com/place/1665155982",
+      "name": "팔각도 나주혁신도시점",
+      "visitorReviews": 682,
+      "blogReviews": 330,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 13,
+      "url": "https://m.place.naver.com/place/1854409347",
+      "name": "88포장마차 나주점",
+      "visitorReviews": 88,
+      "blogReviews": 25,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 14,
+      "url": "https://m.place.naver.com/place/1171182174",
+      "name": "루야네 심야식당",
+      "visitorReviews": 67,
+      "blogReviews": 40,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 15,
+      "url": "https://m.place.naver.com/place/1604268906",
+      "name": "하인즈버킷",
+      "visitorReviews": 470,
+      "blogReviews": 101,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 16,
+      "url": "https://m.place.naver.com/place/1962123851",
+      "name": "메이데이",
+      "visitorReviews": 146,
+      "blogReviews": 34,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 17,
+      "url": "https://m.place.naver.com/place/1547853508",
+      "name": "탐라포차 나주점",
+      "visitorReviews": 136,
+      "blogReviews": 239,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 18,
+      "url": "https://m.place.naver.com/place/1072433076",
+      "name": "리얼펍 나주혁신점",
+      "visitorReviews": 448,
+      "blogReviews": 9,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 19,
+      "url": "https://m.place.naver.com/place/1021052597",
+      "name": "역전할머니맥주 나주혁신점",
+      "visitorReviews": 358,
+      "blogReviews": 39,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 20,
+      "url": "https://m.place.naver.com/place/2062431768",
+      "name": "나주당",
+      "visitorReviews": 28,
+      "blogReviews": 22,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 21,
+      "url": "https://m.place.naver.com/place/1955312314",
+      "name": "월간맥주 나주혁신도시점",
+      "visitorReviews": 106,
+      "blogReviews": 15,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 22,
+      "url": "https://m.place.naver.com/place/1808899934",
+      "name": "마루오구이구이",
+      "visitorReviews": 126,
+      "blogReviews": 9,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 23,
+      "url": "https://m.place.naver.com/place/1283358908",
+      "name": "도화",
+      "visitorReviews": 71,
+      "blogReviews": 18,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 24,
+      "url": "https://m.place.naver.com/place/33920136",
+      "name": "투다리 나주남문점",
+      "visitorReviews": 93,
+      "blogReviews": 9,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 25,
+      "url": "https://m.place.naver.com/place/1833207160",
+      "name": "요리신",
+      "visitorReviews": 69,
+      "blogReviews": 15,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 26,
+      "url": "https://m.place.naver.com/place/1439216129",
+      "name": "육회바른연어 나주점",
+      "visitorReviews": 153,
+      "blogReviews": 51,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 27,
+      "url": "https://m.place.naver.com/place/1836415513",
+      "name": "쇼다이",
+      "visitorReviews": 52,
+      "blogReviews": 20,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 28,
+      "url": "https://m.place.naver.com/place/2096087062",
+      "name": "금별맥주 나주동신대점",
+      "visitorReviews": 20,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 29,
+      "url": "https://m.place.naver.com/place/33796163",
+      "name": "김실장포차",
+      "visitorReviews": 181,
+      "blogReviews": 26,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 30,
+      "url": "https://m.place.naver.com/place/1662771468",
+      "name": "인쌩맥주 나주혁신빛가람점",
+      "visitorReviews": 77,
+      "blogReviews": 36,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 31,
+      "url": "https://m.place.naver.com/place/1969423523",
+      "name": "멘시루",
+      "visitorReviews": 264,
+      "blogReviews": 141,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 32,
+      "url": "https://m.place.naver.com/place/1859948817",
+      "name": "별빛내린맥주 나주혁신점",
+      "visitorReviews": 25,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 33,
+      "url": "https://m.place.naver.com/place/2021762810",
+      "name": "리얼펍 나주남평점",
+      "visitorReviews": 112,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 34,
+      "url": "https://m.place.naver.com/place/1632011741",
+      "name": "역전할머니맥주 나주송월점",
+      "visitorReviews": 175,
+      "blogReviews": 7,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 35,
+      "url": "https://m.place.naver.com/place/2080899544",
+      "name": "어부의 식탁",
+      "visitorReviews": 5,
+      "blogReviews": 5,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 36,
+      "url": "https://m.place.naver.com/place/2030164963",
+      "name": "오빠통닭 나주송월점",
+      "visitorReviews": 18,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 37,
+      "url": "https://m.place.naver.com/place/1761435757",
+      "name": "모퉁이",
+      "visitorReviews": 134,
+      "blogReviews": 21,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 38,
+      "url": "https://m.place.naver.com/place/1062959115",
+      "name": "술창고",
+      "visitorReviews": 51,
+      "blogReviews": 5,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 39,
+      "url": "https://m.place.naver.com/place/36647973",
+      "name": "투다리 나주혁신점",
+      "visitorReviews": 109,
+      "blogReviews": 8,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 40,
+      "url": "https://m.place.naver.com/place/2026304275",
+      "name": "전일맥주 나주혁신점",
+      "visitorReviews": 12,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 41,
+      "url": "https://m.place.naver.com/place/2005717018",
+      "name": "육회야문연어 나주남평점",
+      "visitorReviews": 3,
+      "blogReviews": 19,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 42,
+      "url": "https://m.place.naver.com/place/1889887647",
+      "name": "무지개맥주 혁신도시점",
+      "visitorReviews": 13,
+      "blogReviews": 7,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 43,
+      "url": "https://m.place.naver.com/place/1498661466",
+      "name": "크라운호프 나주혁신점",
+      "visitorReviews": 103,
+      "blogReviews": 15,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 44,
+      "url": "https://m.place.naver.com/place/17154095",
+      "name": "아도니스",
+      "visitorReviews": 35,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 45,
+      "url": "https://m.place.naver.com/place/1625144140",
+      "name": "오늘통닭 빛가람점",
+      "visitorReviews": 67,
+      "blogReviews": 8,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 46,
+      "url": "https://m.place.naver.com/place/1984200791",
+      "name": "쎄시봉7080라이브",
+      "visitorReviews": 14,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 47,
+      "url": "https://m.place.naver.com/place/1648614804",
+      "name": "역전할머니맥주 나주남평점",
+      "visitorReviews": 134,
+      "blogReviews": 7,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 48,
+      "url": "https://m.place.naver.com/place/1108407834",
+      "name": "봉구상회 나주혁신중앙점",
+      "visitorReviews": 16,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 49,
+      "url": "https://m.place.naver.com/place/1416120838",
+      "name": "한잔해",
+      "visitorReviews": 31,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 50,
+      "url": "https://m.place.naver.com/place/1157655404",
+      "name": "삼거리포차",
+      "visitorReviews": 52,
+      "blogReviews": 11,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 51,
+      "url": "https://m.place.naver.com/place/1379394207",
+      "name": "키읔키읔룸소주방",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 52,
+      "url": "https://m.place.naver.com/place/1328262298",
+      "name": "월간맥주 나주대호점",
+      "visitorReviews": 366,
+      "blogReviews": 6,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 53,
+      "url": "https://m.place.naver.com/place/1895461424",
+      "name": "와인공간 우듬지",
+      "visitorReviews": 8,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 54,
+      "url": "https://m.place.naver.com/place/552676535",
+      "name": "몽실이비어 나주점",
+      "visitorReviews": 71,
+      "blogReviews": 10,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 55,
+      "url": "https://m.place.naver.com/place/1819244012",
+      "name": "투다리 혁신2호점",
+      "visitorReviews": 64,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 56,
+      "url": "https://m.place.naver.com/place/1565360216",
+      "name": "호수로74",
+      "visitorReviews": 42,
+      "blogReviews": 11,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 57,
+      "url": "https://m.place.naver.com/place/1772048318",
+      "name": "역전할머니맥주 동신대점",
+      "visitorReviews": 143,
+      "blogReviews": 5,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 58,
+      "url": "https://m.place.naver.com/place/2099236172",
+      "name": "할매포차",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 59,
+      "url": "https://m.place.naver.com/place/1000545259",
+      "name": "오성포차",
+      "visitorReviews": 29,
+      "blogReviews": 9,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 60,
+      "url": "https://m.place.naver.com/place/2068447329",
+      "name": "이치방 이자카야",
+      "visitorReviews": 10,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 61,
+      "url": "https://m.place.naver.com/place/2032880663",
+      "name": "별난아재맥주",
+      "visitorReviews": 15,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 62,
+      "url": "https://m.place.naver.com/place/1493918175",
+      "name": "펀비어킹 전남 나주혁신호수공원점",
+      "visitorReviews": 51,
+      "blogReviews": 5,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 63,
+      "url": "https://m.place.naver.com/place/1692269123",
+      "name": "아이리스노래홀",
+      "visitorReviews": 6,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 64,
+      "url": "https://m.place.naver.com/place/1343354945",
+      "name": "미쓰족발 나주대호점",
+      "visitorReviews": 52,
+      "blogReviews": 8,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 65,
+      "url": "https://m.place.naver.com/place/1536243184",
+      "name": "어썸",
+      "visitorReviews": 33,
+      "blogReviews": 8,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 66,
+      "url": "https://m.place.naver.com/place/1245990436",
+      "name": "마루룸노래홀",
+      "visitorReviews": 7,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 67,
+      "url": "https://m.place.naver.com/place/1081971228",
+      "name": "달가림",
+      "visitorReviews": 59,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 68,
+      "url": "https://m.place.naver.com/place/1037242097",
+      "name": "투다리 대호점",
+      "visitorReviews": 55,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 69,
+      "url": "https://m.place.naver.com/place/2040948335",
+      "name": "잔잔비어",
+      "visitorReviews": 3,
+      "blogReviews": 5,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 70,
+      "url": "https://m.place.naver.com/place/1513647781",
+      "name": "취하면,도레미",
+      "visitorReviews": 48,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 71,
+      "url": "https://m.place.naver.com/place/38728571",
+      "name": "강남룸소주방",
+      "visitorReviews": 56,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 72,
+      "url": "https://m.place.naver.com/place/1386589648",
+      "name": "스타킹노래홀",
+      "visitorReviews": 3,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 73,
+      "url": "https://m.place.naver.com/place/45051365",
+      "name": "오렌지노래홀",
+      "visitorReviews": 10,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 74,
+      "url": "https://m.place.naver.com/place/1988660475",
+      "name": "노안포차",
+      "visitorReviews": 107,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 75,
+      "url": "https://m.place.naver.com/place/1670617156",
+      "name": "파티한정식룸소주방",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 76,
+      "url": "https://m.place.naver.com/place/1119663510",
+      "name": "칸룸소주방",
+      "visitorReviews": 4,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 77,
+      "url": "https://m.place.naver.com/place/1954415305",
+      "name": "뮤직온에어",
+      "visitorReviews": 4,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 78,
+      "url": "https://m.place.naver.com/place/1287148227",
+      "name": "리얼맥주",
+      "visitorReviews": 16,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 79,
+      "url": "https://m.place.naver.com/place/1374464491",
+      "name": "소문난모퉁이",
+      "visitorReviews": 2,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 80,
+      "url": "https://m.place.naver.com/place/1487857285",
+      "name": "칠공포차",
+      "visitorReviews": 1,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 81,
+      "url": "https://m.place.naver.com/place/1797448532",
+      "name": "공간",
+      "visitorReviews": 37,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 82,
+      "url": "https://m.place.naver.com/place/1537835732",
+      "name": "에프원",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 83,
+      "url": "https://m.place.naver.com/place/1384861449",
+      "name": "뱅뱅노래홀",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 84,
+      "url": "https://m.place.naver.com/place/1682192246",
+      "name": "소풍",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 85,
+      "url": "https://m.place.naver.com/place/1215217853",
+      "name": "투사랑 혁신호수공원점",
+      "visitorReviews": 70,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 86,
+      "url": "https://m.place.naver.com/place/1605885711",
+      "name": "뿜뿜7080라이브",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 87,
+      "url": "https://m.place.naver.com/place/32670571",
+      "name": "만남소주방",
+      "visitorReviews": 8,
+      "blogReviews": 11,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 88,
+      "url": "https://m.place.naver.com/place/1387065237",
+      "name": "동네포차",
+      "visitorReviews": 9,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 89,
+      "url": "https://m.place.naver.com/place/1919490685",
+      "name": "동네술집",
+      "visitorReviews": 48,
+      "blogReviews": 20,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 90,
+      "url": "https://m.place.naver.com/place/2047873211",
+      "name": "전주식가맥",
+      "visitorReviews": 5,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 91,
+      "url": "https://m.place.naver.com/place/1630656223",
+      "name": "사노라면",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 92,
+      "url": "https://m.place.naver.com/place/2054691191",
+      "name": "요술",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 93,
+      "url": "https://m.place.naver.com/place/1579772269",
+      "name": "올프리츠",
+      "visitorReviews": 51,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 94,
+      "url": "https://m.place.naver.com/place/37296319",
+      "name": "시크릿",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 95,
+      "url": "https://m.place.naver.com/place/37060800",
+      "name": "벨라루나",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 96,
+      "url": "https://m.place.naver.com/place/2016234244",
+      "name": "도토리",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 97,
+      "url": "https://m.place.naver.com/place/31335760",
+      "name": "엠지룸소주방",
+      "visitorReviews": 43,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 98,
+      "url": "https://m.place.naver.com/place/1216758801",
+      "name": "옥상달빛포차",
+      "visitorReviews": 4,
+      "blogReviews": 5,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 99,
+      "url": "https://m.place.naver.com/place/1236423984",
+      "name": "뜨락호프",
+      "visitorReviews": 1,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 100,
+      "url": "https://m.place.naver.com/place/1887718393",
+      "name": "한수제포장마차",
+      "visitorReviews": 0,
+      "blogReviews": 9,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 101,
+      "url": "https://m.place.naver.com/place/1659914326",
+      "name": "나주전집포차",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 102,
+      "url": "https://m.place.naver.com/place/1290219277",
+      "name": "위드쫑",
+      "visitorReviews": 27,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 103,
+      "url": "https://m.place.naver.com/place/17340033",
+      "name": "사랑방손님과김가네",
+      "visitorReviews": 3,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 104,
+      "url": "https://m.place.naver.com/place/1173049230",
+      "name": "그때그자리",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 105,
+      "url": "https://m.place.naver.com/place/1227370818",
+      "name": "비어하우스",
+      "visitorReviews": 5,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 106,
+      "url": "https://m.place.naver.com/place/1554808797",
+      "name": "이시스비어",
+      "visitorReviews": 3,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 107,
+      "url": "https://m.place.naver.com/place/1699742734",
+      "name": "감성창고",
+      "visitorReviews": 3,
+      "blogReviews": 6,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 108,
+      "url": "https://m.place.naver.com/place/17335641",
+      "name": "칸호프",
+      "visitorReviews": 9,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 109,
+      "url": "https://m.place.naver.com/place/63824262",
+      "name": "오픈하우스",
+      "visitorReviews": 27,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 110,
+      "url": "https://m.place.naver.com/place/1233863724",
+      "name": "오늘도혁신",
+      "visitorReviews": 20,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 111,
+      "url": "https://m.place.naver.com/place/1339700360",
+      "name": "럭키바",
+      "visitorReviews": 0,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 112,
+      "url": "https://m.place.naver.com/place/1766554908",
+      "name": "원",
+      "visitorReviews": 7,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 113,
+      "url": "https://m.place.naver.com/place/1929925814",
+      "name": "춘자막걸리",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 114,
+      "url": "https://m.place.naver.com/place/1785327185",
+      "name": "내가쏜다",
+      "visitorReviews": 7,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 115,
+      "url": "https://m.place.naver.com/place/1295463154",
+      "name": "카리스마",
+      "visitorReviews": 46,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 116,
+      "url": "https://m.place.naver.com/place/1104712471",
+      "name": "달",
+      "visitorReviews": 126,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 117,
+      "url": "https://m.place.naver.com/place/1037385385",
+      "name": "고도리주막",
+      "visitorReviews": 3,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 118,
+      "url": "https://m.place.naver.com/place/37269309",
+      "name": "사이야 나주점",
+      "visitorReviews": 4,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 119,
+      "url": "https://m.place.naver.com/place/17162772",
+      "name": "둘리치킨&맥주",
+      "visitorReviews": 15,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 120,
+      "url": "https://m.place.naver.com/place/1262898941",
+      "name": "양마담노래홀",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 121,
+      "url": "https://m.place.naver.com/place/1008949821",
+      "name": "맥주창고",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 122,
+      "url": "https://m.place.naver.com/place/1081188426",
+      "name": "맛나포차",
+      "visitorReviews": 8,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 123,
+      "url": "https://m.place.naver.com/place/1358223218",
+      "name": "민수기네포차",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 124,
+      "url": "https://m.place.naver.com/place/1277953011",
+      "name": "트멍",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 125,
+      "url": "https://m.place.naver.com/place/1486020480",
+      "name": "사랑방",
+      "visitorReviews": 8,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 126,
+      "url": "https://m.place.naver.com/place/1270481235",
+      "name": "선미포차",
+      "visitorReviews": 6,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 127,
+      "url": "https://m.place.naver.com/place/1983483137",
+      "name": "꾸시마루",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 128,
+      "url": "https://m.place.naver.com/place/1920827000",
+      "name": "마음을비어쓰",
+      "visitorReviews": 0,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 129,
+      "url": "https://m.place.naver.com/place/1099358741",
+      "name": "수제왕꼬치 엉뚱한상상 나주혁신점",
+      "visitorReviews": 0,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 130,
+      "url": "https://m.place.naver.com/place/1026253233",
+      "name": "와썸 포차",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 131,
+      "url": "https://m.place.naver.com/place/17148673",
+      "name": "황진이노래타운",
+      "visitorReviews": 4,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 132,
+      "url": "https://m.place.naver.com/place/35656759",
+      "name": "빅투아",
+      "visitorReviews": 5,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 133,
+      "url": "https://m.place.naver.com/place/38344099",
+      "name": "블루노래홀",
+      "visitorReviews": 3,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 134,
+      "url": "https://m.place.naver.com/place/1887771365",
+      "name": "영심이노래홀",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 135,
+      "url": "https://m.place.naver.com/place/1392127933",
+      "name": "꿈의궁전",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 136,
+      "url": "https://m.place.naver.com/place/1349119581",
+      "name": "남산노래타운",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 137,
+      "url": "https://m.place.naver.com/place/17153163",
+      "name": "잔비어",
+      "visitorReviews": 1,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 138,
+      "url": "https://m.place.naver.com/place/38476949",
+      "name": "유정호프",
+      "visitorReviews": 9,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 139,
+      "url": "https://m.place.naver.com/place/1392910617",
+      "name": "킹덤롬소주방",
+      "visitorReviews": 6,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 140,
+      "url": "https://m.place.naver.com/place/2027296499",
+      "name": "곱다니포차",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 141,
+      "url": "https://m.place.naver.com/place/17153678",
+      "name": "호반호프",
+      "visitorReviews": 33,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 142,
+      "url": "https://m.place.naver.com/place/1794636126",
+      "name": "프렌즈펍",
+      "visitorReviews": 33,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 143,
+      "url": "https://m.place.naver.com/place/1721720850",
+      "name": "나주ESC",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 144,
+      "url": "https://m.place.naver.com/place/1033334214",
+      "name": "옹달샘포차",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 145,
+      "url": "https://m.place.naver.com/place/1768026658",
+      "name": "설탕",
+      "visitorReviews": 4,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 146,
+      "url": "https://m.place.naver.com/place/1807967821",
+      "name": "호박7080",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 147,
+      "url": "https://m.place.naver.com/place/1984934112",
+      "name": "먹놀야시장",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 148,
+      "url": "https://m.place.naver.com/place/1158729358",
+      "name": "다인노래홀",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 149,
+      "url": "https://m.place.naver.com/place/1441286004",
+      "name": "부부포장마차",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 150,
+      "url": "https://m.place.naver.com/place/17336073",
+      "name": "카이저호프",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 151,
+      "url": "https://m.place.naver.com/place/17150124",
+      "name": "프린스주점",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 152,
+      "url": "https://m.place.naver.com/place/17157300",
+      "name": "장승백이",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 153,
+      "url": "https://m.place.naver.com/place/17150746",
+      "name": "드림음악홀",
+      "visitorReviews": 4,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 154,
+      "url": "https://m.place.naver.com/place/1910025059",
+      "name": "시크릿노래홀",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 155,
+      "url": "https://m.place.naver.com/place/1903309616",
+      "name": "마실",
+      "visitorReviews": 13,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 156,
+      "url": "https://m.place.naver.com/place/1243142674",
+      "name": "수",
+      "visitorReviews": 9,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 157,
+      "url": "https://m.place.naver.com/place/1016204863",
+      "name": "상구통닭&비어 나주점",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 158,
+      "url": "https://m.place.naver.com/place/17338909",
+      "name": "밀밭호프",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 159,
+      "url": "https://m.place.naver.com/place/35699388",
+      "name": "자라",
+      "visitorReviews": 12,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 160,
+      "url": "https://m.place.naver.com/place/1318426538",
+      "name": "담소호프",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 161,
+      "url": "https://m.place.naver.com/place/32224159",
+      "name": "샤넬노래홀",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 162,
+      "url": "https://m.place.naver.com/place/17150597",
+      "name": "인터뷰노래방",
+      "visitorReviews": 21,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 163,
+      "url": "https://m.place.naver.com/place/19345154",
+      "name": "스칼렛",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 164,
+      "url": "https://m.place.naver.com/place/1943124983",
+      "name": "마루오Beer",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 165,
+      "url": "https://m.place.naver.com/place/1400836564",
+      "name": "위즐",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 166,
+      "url": "https://m.place.naver.com/place/17159481",
+      "name": "장작호프",
+      "visitorReviews": 17,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 167,
+      "url": "https://m.place.naver.com/place/1008588551",
+      "name": "프린세스다이어리",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 168,
+      "url": "https://m.place.naver.com/place/1579776838",
+      "name": "브로이",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 169,
+      "url": "https://m.place.naver.com/place/1832637344",
+      "name": "케이바",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 170,
+      "url": "https://m.place.naver.com/place/1153861700",
+      "name": "오색집",
+      "visitorReviews": 25,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 171,
+      "url": "https://m.place.naver.com/place/348163410",
+      "name": "슈슈",
+      "visitorReviews": 6,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 172,
+      "url": "https://m.place.naver.com/place/1185361738",
+      "name": "술마당",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 173,
+      "url": "https://m.place.naver.com/place/17164372",
+      "name": "사랑방",
+      "visitorReviews": 22,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 174,
+      "url": "https://m.place.naver.com/place/17148501",
+      "name": "냉산실내포장마차",
+      "visitorReviews": 0,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 175,
+      "url": "https://m.place.naver.com/place/1419971723",
+      "name": "리버뮤직뱅크",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 176,
+      "url": "https://m.place.naver.com/place/41097451",
+      "name": "이팔육비어",
+      "visitorReviews": 7,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 177,
+      "url": "https://m.place.naver.com/place/1459508071",
+      "name": "우리들의소소한이야기",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 178,
+      "url": "https://m.place.naver.com/place/21746722",
+      "name": "노통장호프",
+      "visitorReviews": 1,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 179,
+      "url": "https://m.place.naver.com/place/1467929983",
+      "name": "청춘호프",
+      "visitorReviews": 4,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 180,
+      "url": "https://m.place.naver.com/place/1728727151",
+      "name": "테라스",
+      "visitorReviews": 4,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 181,
+      "url": "https://m.place.naver.com/place/1896988238",
+      "name": "세영이네포차",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 182,
+      "url": "https://m.place.naver.com/place/19359978",
+      "name": "아찌노래홀",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 183,
+      "url": "https://m.place.naver.com/place/1399544053",
+      "name": "달타령",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 184,
+      "url": "https://m.place.naver.com/place/17337401",
+      "name": "연진소주방",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 185,
+      "url": "https://m.place.naver.com/place/1476087489",
+      "name": "필실내마차",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 186,
+      "url": "https://m.place.naver.com/place/2095733536",
+      "name": "수내닭꼬치 전남나주점",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 187,
+      "url": "https://m.place.naver.com/place/1114236646",
+      "name": "정주막 풍암점",
+      "visitorReviews": 1379,
+      "blogReviews": 695,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 188,
+      "url": "https://m.place.naver.com/place/1821660442",
+      "name": "하이드아웃다이닝 보이저진월점",
+      "visitorReviews": 188,
+      "blogReviews": 440,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 189,
+      "url": "https://m.place.naver.com/place/1212618269",
+      "name": "베스트",
+      "visitorReviews": 633,
+      "blogReviews": 405,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 190,
+      "url": "https://m.place.naver.com/place/1146468785",
+      "name": "심야식당 진테츠",
+      "visitorReviews": 284,
+      "blogReviews": 230,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 191,
+      "url": "https://m.place.naver.com/place/1676209667",
+      "name": "디긋",
+      "visitorReviews": 57,
+      "blogReviews": 43,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 192,
+      "url": "https://m.place.naver.com/place/1412352332",
+      "name": "이자카야 로지 in 보이저진월",
+      "visitorReviews": 179,
+      "blogReviews": 156,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 193,
+      "url": "https://m.place.naver.com/place/1876883454",
+      "name": "유월",
+      "visitorReviews": 110,
+      "blogReviews": 34,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 194,
+      "url": "https://m.place.naver.com/place/1367118988",
+      "name": "피식 진월점",
+      "visitorReviews": 212,
+      "blogReviews": 67,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 195,
+      "url": "https://m.place.naver.com/place/1062703493",
+      "name": "스낵얌 저스트드링크 광주진월점",
+      "visitorReviews": 259,
+      "blogReviews": 15,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 196,
+      "url": "https://m.place.naver.com/place/1265751255",
+      "name": "나풍암동",
+      "visitorReviews": 242,
+      "blogReviews": 98,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 197,
+      "url": "https://m.place.naver.com/place/1905890839",
+      "name": "미각",
+      "visitorReviews": 97,
+      "blogReviews": 76,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 198,
+      "url": "https://m.place.naver.com/place/1207526233",
+      "name": "용용선생 광주봉선점",
+      "visitorReviews": 69,
+      "blogReviews": 29,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 199,
+      "url": "https://m.place.naver.com/place/1650271336",
+      "name": "쉼과몰입",
+      "visitorReviews": 90,
+      "blogReviews": 113,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 200,
+      "url": "https://m.place.naver.com/place/1901944464",
+      "name": "이자카야히메",
+      "visitorReviews": 37,
+      "blogReviews": 43,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 201,
+      "url": "https://m.place.naver.com/place/1136453172",
+      "name": "고우 진월점",
+      "visitorReviews": 121,
+      "blogReviews": 98,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 202,
+      "url": "https://m.place.naver.com/place/1528438096",
+      "name": "안단테다이닝 보이저진월점",
+      "visitorReviews": 58,
+      "blogReviews": 47,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 203,
+      "url": "https://m.place.naver.com/place/1382379915",
+      "name": "칼퇴근김대리 광주풍암점",
+      "visitorReviews": 135,
+      "blogReviews": 31,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 204,
+      "url": "https://m.place.naver.com/place/1545706109",
+      "name": "화가",
+      "visitorReviews": 31,
+      "blogReviews": 9,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 205,
+      "url": "https://m.place.naver.com/place/1517833032",
+      "name": "생마차 광주진월점",
+      "visitorReviews": 134,
+      "blogReviews": 54,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 206,
+      "url": "https://m.place.naver.com/place/1978090129",
+      "name": "호맥 광주진월점",
+      "visitorReviews": 316,
+      "blogReviews": 78,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 207,
+      "url": "https://m.place.naver.com/place/1874589511",
+      "name": "팔각도 광주보이저진월점",
+      "visitorReviews": 2038,
+      "blogReviews": 235,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 208,
+      "url": "https://m.place.naver.com/place/37341708",
+      "name": "상도촌 봉선점",
+      "visitorReviews": 891,
+      "blogReviews": 392,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 209,
+      "url": "https://m.place.naver.com/place/1772236111",
+      "name": "리비어밤코02 봉선",
+      "visitorReviews": 803,
+      "blogReviews": 95,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 210,
+      "url": "https://m.place.naver.com/place/1589161846",
+      "name": "철길부산집 광주진월점",
+      "visitorReviews": 63,
+      "blogReviews": 46,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 211,
+      "url": "https://m.place.naver.com/place/1890545515",
+      "name": "보이저 진월",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 212,
+      "url": "https://m.place.naver.com/place/13525316",
+      "name": "비워두기",
+      "visitorReviews": 290,
+      "blogReviews": 466,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 213,
+      "url": "https://m.place.naver.com/place/38626339",
+      "name": "히카리 본점",
+      "visitorReviews": 111,
+      "blogReviews": 51,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 214,
+      "url": "https://m.place.naver.com/place/1232256306",
+      "name": "와인에빠지다",
+      "visitorReviews": 226,
+      "blogReviews": 227,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 215,
+      "url": "https://m.place.naver.com/place/1390511100",
+      "name": "BIG APPLE",
+      "visitorReviews": 131,
+      "blogReviews": 120,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 216,
+      "url": "https://m.place.naver.com/place/16150245",
+      "name": "다사랑치킨피자 진월점",
+      "visitorReviews": 481,
+      "blogReviews": 69,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 217,
+      "url": "https://m.place.naver.com/place/1511514748",
+      "name": "밴드에이드 보이저진월점",
+      "visitorReviews": 197,
+      "blogReviews": 253,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 218,
+      "url": "https://m.place.naver.com/place/2022886125",
+      "name": "이자카야시로",
+      "visitorReviews": 95,
+      "blogReviews": 20,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 219,
+      "url": "https://m.place.naver.com/place/2052750546",
+      "name": "금순이네포차",
+      "visitorReviews": 9,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 220,
+      "url": "https://m.place.naver.com/place/1623104838",
+      "name": "데스칸소",
+      "visitorReviews": 49,
+      "blogReviews": 22,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 221,
+      "url": "https://m.place.naver.com/place/37918507",
+      "name": "깐깐한족발 진월점",
+      "visitorReviews": 558,
+      "blogReviews": 230,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 222,
+      "url": "https://m.place.naver.com/place/2099635252",
+      "name": "역전할머니맥주 광주봉선점",
+      "visitorReviews": 0,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 223,
+      "url": "https://m.place.naver.com/place/1098898060",
+      "name": "쇼부 풍암점",
+      "visitorReviews": 104,
+      "blogReviews": 17,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 224,
+      "url": "https://m.place.naver.com/place/1973229997",
+      "name": "닥엔돈스 효천점",
+      "visitorReviews": 15,
+      "blogReviews": 83,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 225,
+      "url": "https://m.place.naver.com/place/1325960215",
+      "name": "월야",
+      "visitorReviews": 74,
+      "blogReviews": 9,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 226,
+      "url": "https://m.place.naver.com/place/1286384126",
+      "name": "까반느 앤 라이브",
+      "visitorReviews": 355,
+      "blogReviews": 108,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 227,
+      "url": "https://m.place.naver.com/place/1112956619",
+      "name": "역전할머니맥주 광주효천점",
+      "visitorReviews": 167,
+      "blogReviews": 19,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 228,
+      "url": "https://m.place.naver.com/place/1101314814",
+      "name": "호맥 봉선점",
+      "visitorReviews": 202,
+      "blogReviews": 118,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 229,
+      "url": "https://m.place.naver.com/place/1372501012",
+      "name": "월간맥주 광주풍암점",
+      "visitorReviews": 143,
+      "blogReviews": 15,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 230,
+      "url": "https://m.place.naver.com/place/1180392594",
+      "name": "비터앤스윗",
+      "visitorReviews": 38,
+      "blogReviews": 15,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 231,
+      "url": "https://m.place.naver.com/place/2056737679",
+      "name": "거북집",
+      "visitorReviews": 17,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 232,
+      "url": "https://m.place.naver.com/place/1937027742",
+      "name": "은빛",
+      "visitorReviews": 21,
+      "blogReviews": 13,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 233,
+      "url": "https://m.place.naver.com/place/2039604046",
+      "name": "양은이네 광주진월동점",
+      "visitorReviews": 61,
+      "blogReviews": 8,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 234,
+      "url": "https://m.place.naver.com/place/1337926522",
+      "name": "하이토리 주월점",
+      "visitorReviews": 24,
+      "blogReviews": 9,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 235,
+      "url": "https://m.place.naver.com/place/37508638",
+      "name": "진월맥주",
+      "visitorReviews": 165,
+      "blogReviews": 25,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 236,
+      "url": "https://m.place.naver.com/place/1262154321",
+      "name": "효천계절포차",
+      "visitorReviews": 16,
+      "blogReviews": 9,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 237,
+      "url": "https://m.place.naver.com/place/1457338715",
+      "name": "우리식",
+      "visitorReviews": 28,
+      "blogReviews": 15,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 238,
+      "url": "https://m.place.naver.com/place/1093076288",
+      "name": "수내닭꼬치 진월점",
+      "visitorReviews": 173,
+      "blogReviews": 20,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 239,
+      "url": "https://m.place.naver.com/place/30831511",
+      "name": "김성진섹스폰라이브",
+      "visitorReviews": 10,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 240,
+      "url": "https://m.place.naver.com/place/1772038748",
+      "name": "비어사케진월점",
+      "visitorReviews": 47,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 241,
+      "url": "https://m.place.naver.com/place/37510635",
+      "name": "충만치킨 풍암점",
+      "visitorReviews": 155,
+      "blogReviews": 44,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 242,
+      "url": "https://m.place.naver.com/place/1168852653",
+      "name": "한신포차 광주진월점 (배달/포장 전문점)",
+      "visitorReviews": 16,
+      "blogReviews": 6,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 243,
+      "url": "https://m.place.naver.com/place/1119718025",
+      "name": "미미",
+      "visitorReviews": 127,
+      "blogReviews": 31,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 244,
+      "url": "https://m.place.naver.com/place/19646874",
+      "name": "보성녹차숙성생막걸리",
+      "visitorReviews": 65,
+      "blogReviews": 7,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 245,
+      "url": "https://m.place.naver.com/place/1470388364",
+      "name": "사케류",
+      "visitorReviews": 107,
+      "blogReviews": 14,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 246,
+      "url": "https://m.place.naver.com/place/1067357231",
+      "name": "크라운호프 광주풍암점",
+      "visitorReviews": 62,
+      "blogReviews": 10,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 247,
+      "url": "https://m.place.naver.com/place/1550747151",
+      "name": "노대비어",
+      "visitorReviews": 27,
+      "blogReviews": 8,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 248,
+      "url": "https://m.place.naver.com/place/1968069313",
+      "name": "투다리 봉선점",
+      "visitorReviews": 183,
+      "blogReviews": 12,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 249,
+      "url": "https://m.place.naver.com/place/1635449698",
+      "name": "써니비어",
+      "visitorReviews": 2,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 250,
+      "url": "https://m.place.naver.com/place/1367022245",
+      "name": "투다리 효천1지구점",
+      "visitorReviews": 68,
+      "blogReviews": 5,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 251,
+      "url": "https://m.place.naver.com/place/37669454",
+      "name": "술이아",
+      "visitorReviews": 20,
+      "blogReviews": 7,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 252,
+      "url": "https://m.place.naver.com/place/2098558580",
+      "name": "타코조아",
+      "visitorReviews": 27,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 253,
+      "url": "https://m.place.naver.com/place/1677639866",
+      "name": "리얼펍 & 살얼음맥주 풍암점",
+      "visitorReviews": 145,
+      "blogReviews": 30,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 254,
+      "url": "https://m.place.naver.com/place/1497632833",
+      "name": "포차도서관",
+      "visitorReviews": 63,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 255,
+      "url": "https://m.place.naver.com/place/32011440",
+      "name": "오구당당",
+      "visitorReviews": 6,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 256,
+      "url": "https://m.place.naver.com/place/1959620829",
+      "name": "썬더치킨 광주 진월점",
+      "visitorReviews": 59,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 257,
+      "url": "https://m.place.naver.com/place/1992745873",
+      "name": "세광양대창 진월점",
+      "visitorReviews": 927,
+      "blogReviews": 1091,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 258,
+      "url": "https://m.place.naver.com/place/1706177386",
+      "name": "별난아재맥주 광주효천점",
+      "visitorReviews": 63,
+      "blogReviews": 8,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 259,
+      "url": "https://m.place.naver.com/place/1529746776",
+      "name": "투다리 진월점",
+      "visitorReviews": 73,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 260,
+      "url": "https://m.place.naver.com/place/1113317200",
+      "name": "인생술집",
+      "visitorReviews": 39,
+      "blogReviews": 4,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 261,
+      "url": "https://m.place.naver.com/place/1179870622",
+      "name": "포차천국 함평점",
+      "visitorReviews": 29,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 262,
+      "url": "https://m.place.naver.com/place/1255275936",
+      "name": "소굴",
+      "visitorReviews": 186,
+      "blogReviews": 10,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 263,
+      "url": "https://m.place.naver.com/place/16125388",
+      "name": "투다리 진월2호점",
+      "visitorReviews": 154,
+      "blogReviews": 8,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 264,
+      "url": "https://m.place.naver.com/place/1817654505",
+      "name": "투게더 효천1지구점",
+      "visitorReviews": 11,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 265,
+      "url": "https://m.place.naver.com/place/1569682059",
+      "name": "고고포차",
+      "visitorReviews": 16,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 266,
+      "url": "https://m.place.naver.com/place/19642874",
+      "name": "투모아풍암동부점",
+      "visitorReviews": 12,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 267,
+      "url": "https://m.place.naver.com/place/1961132453",
+      "name": "펍스",
+      "visitorReviews": 14,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 268,
+      "url": "https://m.place.naver.com/place/31728901",
+      "name": "조이하우스",
+      "visitorReviews": 73,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 269,
+      "url": "https://m.place.naver.com/place/1299753293",
+      "name": "생활맥주 광주진월점",
+      "visitorReviews": 288,
+      "blogReviews": 46,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 270,
+      "url": "https://m.place.naver.com/place/1222734047",
+      "name": "인생맥주",
+      "visitorReviews": 12,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 271,
+      "url": "https://m.place.naver.com/place/1231890203",
+      "name": "괜찮다커피호프",
+      "visitorReviews": 54,
+      "blogReviews": 14,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 272,
+      "url": "https://m.place.naver.com/place/1154435707",
+      "name": "통큰청년맥주 풍암점",
+      "visitorReviews": 125,
+      "blogReviews": 11,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 273,
+      "url": "https://m.place.naver.com/place/1249234193",
+      "name": "곰탕고우고 노대점",
+      "visitorReviews": 50,
+      "blogReviews": 11,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 274,
+      "url": "https://m.place.naver.com/place/21522965",
+      "name": "투모아 진월푸른길점",
+      "visitorReviews": 36,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 275,
+      "url": "https://m.place.naver.com/place/1918074232",
+      "name": "블루밍와인바",
+      "visitorReviews": 111,
+      "blogReviews": 9,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 276,
+      "url": "https://m.place.naver.com/place/1138411895",
+      "name": "퀸즈비어",
+      "visitorReviews": 44,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 277,
+      "url": "https://m.place.naver.com/place/1009373474",
+      "name": "사계절포차",
+      "visitorReviews": 184,
+      "blogReviews": 15,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 278,
+      "url": "https://m.place.naver.com/place/1058855440",
+      "name": "수정포차",
+      "visitorReviews": 0,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 279,
+      "url": "https://m.place.naver.com/place/1772317161",
+      "name": "달빛아지트",
+      "visitorReviews": 13,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 280,
+      "url": "https://m.place.naver.com/place/1195926481",
+      "name": "톡포차",
+      "visitorReviews": 15,
+      "blogReviews": 4,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 281,
+      "url": "https://m.place.naver.com/place/1979685780",
+      "name": "인디아나",
+      "visitorReviews": 84,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 282,
+      "url": "https://m.place.naver.com/place/1145721193",
+      "name": "술통",
+      "visitorReviews": 37,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 283,
+      "url": "https://m.place.naver.com/place/1914967136",
+      "name": "투사랑 풍암마재점",
+      "visitorReviews": 60,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 284,
+      "url": "https://m.place.naver.com/place/1971491287",
+      "name": "치얼스",
+      "visitorReviews": 5,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 285,
+      "url": "https://m.place.naver.com/place/1375453169",
+      "name": "리멤버",
+      "visitorReviews": 1,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 286,
+      "url": "https://m.place.naver.com/place/1478177974",
+      "name": "투게더압촌행복점",
+      "visitorReviews": 14,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 287,
+      "url": "https://m.place.naver.com/place/1575872277",
+      "name": "캔디바",
+      "visitorReviews": 3,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 288,
+      "url": "https://m.place.naver.com/place/1694698522",
+      "name": "역전할머니맥주 전남함평점",
+      "visitorReviews": 38,
+      "blogReviews": 4,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 289,
+      "url": "https://m.place.naver.com/place/1220030879",
+      "name": "을찌로가맥 봉선점",
+      "visitorReviews": 46,
+      "blogReviews": 7,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 290,
+      "url": "https://m.place.naver.com/place/1094494975",
+      "name": "마실",
+      "visitorReviews": 23,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 291,
+      "url": "https://m.place.naver.com/place/1594219240",
+      "name": "봉맥당",
+      "visitorReviews": 35,
+      "blogReviews": 8,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 292,
+      "url": "https://m.place.naver.com/place/1337547641",
+      "name": "투게더 효천2지구점",
+      "visitorReviews": 75,
+      "blogReviews": 4,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 293,
+      "url": "https://m.place.naver.com/place/1851641527",
+      "name": "봄비어",
+      "visitorReviews": 33,
+      "blogReviews": 1,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 294,
+      "url": "https://m.place.naver.com/place/2001878600",
+      "name": "술상편지",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 295,
+      "url": "https://m.place.naver.com/place/38623489",
+      "name": "투다리 효천점",
+      "visitorReviews": 60,
+      "blogReviews": 5,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 296,
+      "url": "https://m.place.naver.com/place/1348138404",
+      "name": "마마스케일",
+      "visitorReviews": 103,
+      "blogReviews": 54,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 297,
+      "url": "https://m.place.naver.com/place/1207588483",
+      "name": "오늘펍",
+      "visitorReviews": 47,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 298,
+      "url": "https://m.place.naver.com/place/1801752240",
+      "name": "콤파스",
+      "visitorReviews": 73,
+      "blogReviews": 3,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 299,
+      "url": "https://m.place.naver.com/place/1563015325",
+      "name": "루비",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 300,
+      "url": "https://m.place.naver.com/place/2091395683",
+      "name": "제니",
+      "visitorReviews": 0,
+      "blogReviews": 0,
+      "bookingReviews": 0
+    }
+  ]
+}

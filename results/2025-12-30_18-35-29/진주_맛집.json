@@ -1,0 +1,2407 @@
+{
+  "success": true,
+  "keyword": "진주 맛집",
+  "count": 300,
+  "results": [
+    {
+      "rank": 1,
+      "url": "https://m.place.naver.com/place/1482270799",
+      "name": "짹짹커피 진주점",
+      "visitorReviews": 3821,
+      "blogReviews": 667,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://m.place.naver.com/place/36133054",
+      "name": "더슬로우베이커리카페 주약본점",
+      "visitorReviews": 1171,
+      "blogReviews": 83,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://m.place.naver.com/place/2056994089",
+      "name": "하르르 커피 진주",
+      "visitorReviews": 555,
+      "blogReviews": 184,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://m.place.naver.com/place/808068493",
+      "name": "살롱드인사",
+      "visitorReviews": 3078,
+      "blogReviews": 1287,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://m.place.naver.com/place/1053616012",
+      "name": "뽁식당 진주점",
+      "visitorReviews": 2820,
+      "blogReviews": 1184,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 6,
+      "url": "https://m.place.naver.com/place/1799917307",
+      "name": "뽁식당 평거점",
+      "visitorReviews": 1428,
+      "blogReviews": 298,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 7,
+      "url": "https://m.place.naver.com/place/2018600254",
+      "name": "펄디스트릭 진주하대동본점",
+      "visitorReviews": 831,
+      "blogReviews": 65,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 8,
+      "url": "https://m.place.naver.com/place/1253706913",
+      "name": "애슐리퀸즈 진주혁신점",
+      "visitorReviews": 602,
+      "blogReviews": 199,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 9,
+      "url": "https://m.place.naver.com/place/1898748692",
+      "name": "란빵집",
+      "visitorReviews": 509,
+      "blogReviews": 83,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 10,
+      "url": "https://m.place.naver.com/place/2024108871",
+      "name": "미카도스시 진주혁신도시점",
+      "visitorReviews": 414,
+      "blogReviews": 37,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 11,
+      "url": "https://m.place.naver.com/place/2076731852",
+      "name": "멘노카미",
+      "visitorReviews": 449,
+      "blogReviews": 56,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 12,
+      "url": "https://m.place.naver.com/place/1812424909",
+      "name": "올드벗베럴",
+      "visitorReviews": 1274,
+      "blogReviews": 332,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 13,
+      "url": "https://m.place.naver.com/place/1274895641",
+      "name": "포에틱시너리 본점",
+      "visitorReviews": 3749,
+      "blogReviews": 435,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 14,
+      "url": "https://m.place.naver.com/place/37500330",
+      "name": "이용규베커라이",
+      "visitorReviews": 2006,
+      "blogReviews": 227,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 15,
+      "url": "https://m.place.naver.com/place/1298513801",
+      "name": "쿠우쿠우 진주점",
+      "visitorReviews": 2465,
+      "blogReviews": 480,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 16,
+      "url": "https://m.place.naver.com/place/1908419700",
+      "name": "카페앤북스 24시",
+      "visitorReviews": 1092,
+      "blogReviews": 126,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 17,
+      "url": "https://m.place.naver.com/place/1558865685",
+      "name": "산청흑돼지 혁신직영점",
+      "visitorReviews": 1020,
+      "blogReviews": 348,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 18,
+      "url": "https://m.place.naver.com/place/1619465756",
+      "name": "엘리먼트브루",
+      "visitorReviews": 538,
+      "blogReviews": 548,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 19,
+      "url": "https://m.place.naver.com/place/2054953918",
+      "name": "온담",
+      "visitorReviews": 562,
+      "blogReviews": 65,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 20,
+      "url": "https://m.place.naver.com/place/1440015021",
+      "name": "류헤이",
+      "visitorReviews": 2003,
+      "blogReviews": 541,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 21,
+      "url": "https://m.place.naver.com/place/1809281879",
+      "name": "샤브20 진주점",
+      "visitorReviews": 372,
+      "blogReviews": 1052,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 22,
+      "url": "https://m.place.naver.com/place/2057414527",
+      "name": "플레이트앤쉐어",
+      "visitorReviews": 1884,
+      "blogReviews": 131,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 23,
+      "url": "https://m.place.naver.com/place/2055790456",
+      "name": "아웃백스테이크하우스 진주롯데몰점",
+      "visitorReviews": 184,
+      "blogReviews": 89,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 24,
+      "url": "https://m.place.naver.com/place/901774262",
+      "name": "알로하커피",
+      "visitorReviews": 617,
+      "blogReviews": 357,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 25,
+      "url": "https://m.place.naver.com/place/1862603251",
+      "name": "키친온도 진주 본점",
+      "visitorReviews": 953,
+      "blogReviews": 206,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 26,
+      "url": "https://m.place.naver.com/place/2057879601",
+      "name": "연하루 커피",
+      "visitorReviews": 109,
+      "blogReviews": 182,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 27,
+      "url": "https://m.place.naver.com/place/1110738042",
+      "name": "상무초밥 진주점",
+      "visitorReviews": 2805,
+      "blogReviews": 1135,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 28,
+      "url": "https://m.place.naver.com/place/15432471",
+      "name": "불돈생돈 진주경상대칠암점",
+      "visitorReviews": 1212,
+      "blogReviews": 121,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 29,
+      "url": "https://m.place.naver.com/place/1152145166",
+      "name": "후후쿠키",
+      "visitorReviews": 111,
+      "blogReviews": 94,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 30,
+      "url": "https://m.place.naver.com/place/1122396171",
+      "name": "덕수파스타 진주혁신",
+      "visitorReviews": 2092,
+      "blogReviews": 132,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 31,
+      "url": "https://m.place.naver.com/place/2016940679",
+      "name": "양식대장",
+      "visitorReviews": 559,
+      "blogReviews": 15,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 32,
+      "url": "https://m.place.naver.com/place/1246190387",
+      "name": "고미식당 진주평거점",
+      "visitorReviews": 1490,
+      "blogReviews": 362,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 33,
+      "url": "https://m.place.naver.com/place/2025716203",
+      "name": "포하우스 진주가좌본점",
+      "visitorReviews": 2040,
+      "blogReviews": 122,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 34,
+      "url": "https://m.place.naver.com/place/1466393517",
+      "name": "귀곡보쌈 본점",
+      "visitorReviews": 1289,
+      "blogReviews": 715,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 35,
+      "url": "https://m.place.naver.com/place/1294562155",
+      "name": "케빈커피로스터스 평거 직영점",
+      "visitorReviews": 493,
+      "blogReviews": 177,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 36,
+      "url": "https://m.place.naver.com/place/38693053",
+      "name": "남매식당 진주혁신도시 본점",
+      "visitorReviews": 11973,
+      "blogReviews": 1038,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 37,
+      "url": "https://m.place.naver.com/place/1582032347",
+      "name": "로스팅웨어",
+      "visitorReviews": 3692,
+      "blogReviews": 1535,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 38,
+      "url": "https://m.place.naver.com/place/2097808246",
+      "name": "호박오리 평거직영점",
+      "visitorReviews": 128,
+      "blogReviews": 7,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 39,
+      "url": "https://m.place.naver.com/place/1411963312",
+      "name": "카사데타코 진주혁신도시점",
+      "visitorReviews": 535,
+      "blogReviews": 167,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 40,
+      "url": "https://m.place.naver.com/place/33802644",
+      "name": "바다품은식당마켓 본점",
+      "visitorReviews": 897,
+      "blogReviews": 454,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 41,
+      "url": "https://m.place.naver.com/place/1181851190",
+      "name": "남매식당 진주평거점",
+      "visitorReviews": 3656,
+      "blogReviews": 213,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 42,
+      "url": "https://m.place.naver.com/place/1623369953",
+      "name": "250도 평거점",
+      "visitorReviews": 1224,
+      "blogReviews": 292,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 43,
+      "url": "https://m.place.naver.com/place/38412373",
+      "name": "김씨네라멘트럭",
+      "visitorReviews": 1766,
+      "blogReviews": 498,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 44,
+      "url": "https://m.place.naver.com/place/1411398789",
+      "name": "굿데이구디스 진주가좌본점",
+      "visitorReviews": 554,
+      "blogReviews": 160,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 45,
+      "url": "https://m.place.naver.com/place/1559227644",
+      "name": "청춘밥상 진주",
+      "visitorReviews": 357,
+      "blogReviews": 191,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 46,
+      "url": "https://m.place.naver.com/place/1341372685",
+      "name": "센트럴베이크샵",
+      "visitorReviews": 684,
+      "blogReviews": 653,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 47,
+      "url": "https://m.place.naver.com/place/1837992811",
+      "name": "미소부엌 진주하대본점",
+      "visitorReviews": 2731,
+      "blogReviews": 323,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 48,
+      "url": "https://m.place.naver.com/place/20149432",
+      "name": "하연옥 본점",
+      "visitorReviews": 12044,
+      "blogReviews": 4677,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 49,
+      "url": "https://m.place.naver.com/place/31930771",
+      "name": "홍제원",
+      "visitorReviews": 1059,
+      "blogReviews": 471,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 50,
+      "url": "https://m.place.naver.com/place/1828886743",
+      "name": "유피커피",
+      "visitorReviews": 486,
+      "blogReviews": 231,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 51,
+      "url": "https://m.place.naver.com/place/1831052808",
+      "name": "비스트로한정 진주점",
+      "visitorReviews": 154,
+      "blogReviews": 131,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 52,
+      "url": "https://m.place.naver.com/place/1128074399",
+      "name": "카츠카키 진주본성동점",
+      "visitorReviews": 1877,
+      "blogReviews": 143,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 53,
+      "url": "https://m.place.naver.com/place/34666049",
+      "name": "송기원진주냉면 본점",
+      "visitorReviews": 5918,
+      "blogReviews": 1694,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 54,
+      "url": "https://m.place.naver.com/place/1315158788",
+      "name": "논개한우 진주평거점",
+      "visitorReviews": 688,
+      "blogReviews": 84,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 55,
+      "url": "https://m.place.naver.com/place/1404409121",
+      "name": "원카츠 진주경상대점",
+      "visitorReviews": 2548,
+      "blogReviews": 540,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 56,
+      "url": "https://m.place.naver.com/place/2040324871",
+      "name": "디얼스인타임",
+      "visitorReviews": 412,
+      "blogReviews": 97,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 57,
+      "url": "https://m.place.naver.com/place/2043719705",
+      "name": "깻잎막회 진주점",
+      "visitorReviews": 954,
+      "blogReviews": 96,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 58,
+      "url": "https://m.place.naver.com/place/1323993130",
+      "name": "미호비비",
+      "visitorReviews": 570,
+      "blogReviews": 257,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 59,
+      "url": "https://m.place.naver.com/place/1377914236",
+      "name": "쿄오모덮밥 본점",
+      "visitorReviews": 2873,
+      "blogReviews": 225,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 60,
+      "url": "https://m.place.naver.com/place/11710336",
+      "name": "천황식당",
+      "visitorReviews": 2626,
+      "blogReviews": 2372,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 61,
+      "url": "https://m.place.naver.com/place/2003391119",
+      "name": "진주조개창고",
+      "visitorReviews": 14,
+      "blogReviews": 37,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 62,
+      "url": "https://m.place.naver.com/place/1645737277",
+      "name": "도비치아 진주혁신도시점",
+      "visitorReviews": 1291,
+      "blogReviews": 169,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 63,
+      "url": "https://m.place.naver.com/place/1415431731",
+      "name": "무티",
+      "visitorReviews": 115,
+      "blogReviews": 142,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 64,
+      "url": "https://m.place.naver.com/place/2098003523",
+      "name": "기프트버거 경남1호점",
+      "visitorReviews": 405,
+      "blogReviews": 85,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 65,
+      "url": "https://m.place.naver.com/place/15514740",
+      "name": "커피플라워",
+      "visitorReviews": 1680,
+      "blogReviews": 741,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 66,
+      "url": "https://m.place.naver.com/place/2037891866",
+      "name": "청년감자탕순대국 진주혁신점",
+      "visitorReviews": 714,
+      "blogReviews": 90,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 67,
+      "url": "https://m.place.naver.com/place/1604802194",
+      "name": "유니얼",
+      "visitorReviews": 160,
+      "blogReviews": 105,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 68,
+      "url": "https://m.place.naver.com/place/1081037590",
+      "name": "뽁식당 초전점",
+      "visitorReviews": 648,
+      "blogReviews": 174,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 69,
+      "url": "https://m.place.naver.com/place/1345143761",
+      "name": "고기원칙 진주혁신점",
+      "visitorReviews": 483,
+      "blogReviews": 423,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 70,
+      "url": "https://m.place.naver.com/place/1862782288",
+      "name": "처프트",
+      "visitorReviews": 2938,
+      "blogReviews": 433,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 71,
+      "url": "https://m.place.naver.com/place/1379575593",
+      "name": "히얼",
+      "visitorReviews": 164,
+      "blogReviews": 245,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 72,
+      "url": "https://m.place.naver.com/place/1001048177",
+      "name": "페퍼그라인더",
+      "visitorReviews": 235,
+      "blogReviews": 294,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 73,
+      "url": "https://m.place.naver.com/place/1802678961",
+      "name": "료시",
+      "visitorReviews": 1783,
+      "blogReviews": 256,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 74,
+      "url": "https://m.place.naver.com/place/15522890",
+      "name": "스시하루",
+      "visitorReviews": 1296,
+      "blogReviews": 455,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 75,
+      "url": "https://m.place.naver.com/place/34052642",
+      "name": "호박오리 초전본점",
+      "visitorReviews": 2062,
+      "blogReviews": 315,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 76,
+      "url": "https://m.place.naver.com/place/1994535119",
+      "name": "만수채 진주혁신",
+      "visitorReviews": 390,
+      "blogReviews": 169,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 77,
+      "url": "https://m.place.naver.com/place/1276276679",
+      "name": "코지하우스 진주경상대점",
+      "visitorReviews": 658,
+      "blogReviews": 337,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 78,
+      "url": "https://m.place.naver.com/place/1991782107",
+      "name": "호박꽃마차 진주혁신점",
+      "visitorReviews": 847,
+      "blogReviews": 651,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 79,
+      "url": "https://m.place.naver.com/place/1828332455",
+      "name": "로우로우",
+      "visitorReviews": 251,
+      "blogReviews": 150,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 80,
+      "url": "https://m.place.naver.com/place/11622542",
+      "name": "산청흑돼지",
+      "visitorReviews": 2483,
+      "blogReviews": 688,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 81,
+      "url": "https://m.place.naver.com/place/2024078878",
+      "name": "카페 네모",
+      "visitorReviews": 450,
+      "blogReviews": 67,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 82,
+      "url": "https://m.place.naver.com/place/1525292100",
+      "name": "마음을담다",
+      "visitorReviews": 103,
+      "blogReviews": 6,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 83,
+      "url": "https://m.place.naver.com/place/1009912280",
+      "name": "그로운업",
+      "visitorReviews": 1070,
+      "blogReviews": 489,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 84,
+      "url": "https://m.place.naver.com/place/38567228",
+      "name": "진주냉면산홍 본점",
+      "visitorReviews": 3239,
+      "blogReviews": 1522,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 85,
+      "url": "https://m.place.naver.com/place/1841802973",
+      "name": "옆구리 가호점",
+      "visitorReviews": 502,
+      "blogReviews": 112,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 86,
+      "url": "https://m.place.naver.com/place/15437303",
+      "name": "북경장 진주점",
+      "visitorReviews": 790,
+      "blogReviews": 395,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 87,
+      "url": "https://m.place.naver.com/place/1416235471",
+      "name": "맥도날드 진주혁신GSDT점",
+      "visitorReviews": 5616,
+      "blogReviews": 118,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 88,
+      "url": "https://m.place.naver.com/place/1233104666",
+      "name": "양식당 오브",
+      "visitorReviews": 3124,
+      "blogReviews": 872,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 89,
+      "url": "https://m.place.naver.com/place/1027688327",
+      "name": "투썸플레이스 진주혁신로데오점",
+      "visitorReviews": 967,
+      "blogReviews": 47,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 90,
+      "url": "https://m.place.naver.com/place/1502916519",
+      "name": "진주냉면산홍 진주시청점",
+      "visitorReviews": 1686,
+      "blogReviews": 836,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 91,
+      "url": "https://m.place.naver.com/place/11816470",
+      "name": "제일식당",
+      "visitorReviews": 2166,
+      "blogReviews": 1798,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 92,
+      "url": "https://m.place.naver.com/place/1481312206",
+      "name": "호호반점 진주경상대점",
+      "visitorReviews": 769,
+      "blogReviews": 92,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 93,
+      "url": "https://m.place.naver.com/place/1883392373",
+      "name": "상구네돼지구이 진주중앙점",
+      "visitorReviews": 1402,
+      "blogReviews": 332,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 94,
+      "url": "https://m.place.naver.com/place/1061836215",
+      "name": "타짜오리하우스 진주칠암점",
+      "visitorReviews": 691,
+      "blogReviews": 73,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 95,
+      "url": "https://m.place.naver.com/place/1405539517",
+      "name": "맛있는 착한고기 경상대 본점",
+      "visitorReviews": 858,
+      "blogReviews": 85,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 96,
+      "url": "https://m.place.naver.com/place/1393565580",
+      "name": "샤브74",
+      "visitorReviews": 775,
+      "blogReviews": 154,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 97,
+      "url": "https://m.place.naver.com/place/1238021364",
+      "name": "백조품은오리",
+      "visitorReviews": 657,
+      "blogReviews": 278,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 98,
+      "url": "https://m.place.naver.com/place/1343615007",
+      "name": "삼촌네갈매기 진주평거본점",
+      "visitorReviews": 338,
+      "blogReviews": 76,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 99,
+      "url": "https://m.place.naver.com/place/1945410633",
+      "name": "타카이 진주혁신도시점",
+      "visitorReviews": 5521,
+      "blogReviews": 866,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 100,
+      "url": "https://m.place.naver.com/place/19873846",
+      "name": "수복빵집",
+      "visitorReviews": 1837,
+      "blogReviews": 1431,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 101,
+      "url": "https://m.place.naver.com/place/1328448138",
+      "name": "왕눈이실내포차 진주칠암점",
+      "visitorReviews": 1930,
+      "blogReviews": 364,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 102,
+      "url": "https://m.place.naver.com/place/1207639533",
+      "name": "고구려",
+      "visitorReviews": 2448,
+      "blogReviews": 97,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 103,
+      "url": "https://m.place.naver.com/place/1057554546",
+      "name": "규카츠정 진주점",
+      "visitorReviews": 2285,
+      "blogReviews": 68,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 104,
+      "url": "https://m.place.naver.com/place/1230917711",
+      "name": "손큰식당 진주혁신도시본점",
+      "visitorReviews": 4044,
+      "blogReviews": 300,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 105,
+      "url": "https://m.place.naver.com/place/1227635598",
+      "name": "키친인디아",
+      "visitorReviews": 681,
+      "blogReviews": 302,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 106,
+      "url": "https://m.place.naver.com/place/1180373993",
+      "name": "해웅해물아구찜 신진주점",
+      "visitorReviews": 747,
+      "blogReviews": 92,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 107,
+      "url": "https://m.place.naver.com/place/1505627658",
+      "name": "코지하우스 진주점",
+      "visitorReviews": 1707,
+      "blogReviews": 283,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 108,
+      "url": "https://m.place.naver.com/place/1312383138",
+      "name": "뜨돈 진주점",
+      "visitorReviews": 761,
+      "blogReviews": 291,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 109,
+      "url": "https://m.place.naver.com/place/1189552325",
+      "name": "태영한우 진주혁신도시점",
+      "visitorReviews": 720,
+      "blogReviews": 228,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 110,
+      "url": "https://m.place.naver.com/place/1442605851",
+      "name": "또오리식육식당 진주혁신도시점",
+      "visitorReviews": 2877,
+      "blogReviews": 278,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 111,
+      "url": "https://m.place.naver.com/place/1368999766",
+      "name": "강씨목삼 진주평거점",
+      "visitorReviews": 1212,
+      "blogReviews": 48,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 112,
+      "url": "https://m.place.naver.com/place/1775999093",
+      "name": "오데가든 진주칠암본점",
+      "visitorReviews": 651,
+      "blogReviews": 90,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 113,
+      "url": "https://m.place.naver.com/place/1783455487",
+      "name": "올키베이커리",
+      "visitorReviews": 422,
+      "blogReviews": 319,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 114,
+      "url": "https://m.place.naver.com/place/1703770592",
+      "name": "블랙폼",
+      "visitorReviews": 513,
+      "blogReviews": 111,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 115,
+      "url": "https://m.place.naver.com/place/1647200658",
+      "name": "오름 진주칠암본점",
+      "visitorReviews": 2128,
+      "blogReviews": 154,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 116,
+      "url": "https://m.place.naver.com/place/1722137618",
+      "name": "오시소",
+      "visitorReviews": 1035,
+      "blogReviews": 63,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 117,
+      "url": "https://m.place.naver.com/place/33703212",
+      "name": "진주통닭",
+      "visitorReviews": 768,
+      "blogReviews": 278,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 118,
+      "url": "https://m.place.naver.com/place/1406176048",
+      "name": "베리어스",
+      "visitorReviews": 187,
+      "blogReviews": 316,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 119,
+      "url": "https://m.place.naver.com/place/13300044",
+      "name": "스타벅스 진주경상대점",
+      "visitorReviews": 4104,
+      "blogReviews": 175,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 120,
+      "url": "https://m.place.naver.com/place/1008792405",
+      "name": "소오원 진주본점",
+      "visitorReviews": 2290,
+      "blogReviews": 311,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 121,
+      "url": "https://m.place.naver.com/place/37889591",
+      "name": "250도 하대점",
+      "visitorReviews": 549,
+      "blogReviews": 368,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 122,
+      "url": "https://m.place.naver.com/place/1379616099",
+      "name": "하트브레드",
+      "visitorReviews": 370,
+      "blogReviews": 69,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 123,
+      "url": "https://m.place.naver.com/place/1292753088",
+      "name": "소소노노 하대동본점",
+      "visitorReviews": 593,
+      "blogReviews": 80,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 124,
+      "url": "https://m.place.naver.com/place/1672285832",
+      "name": "르반부 진주혁신도시 본점",
+      "visitorReviews": 333,
+      "blogReviews": 432,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 125,
+      "url": "https://m.place.naver.com/place/1826769263",
+      "name": "쉬즈롤케이크",
+      "visitorReviews": 126,
+      "blogReviews": 119,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 126,
+      "url": "https://m.place.naver.com/place/37992815",
+      "name": "욜로",
+      "visitorReviews": 1606,
+      "blogReviews": 315,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 127,
+      "url": "https://m.place.naver.com/place/37013118",
+      "name": "한국국밥",
+      "visitorReviews": 1295,
+      "blogReviews": 186,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 128,
+      "url": "https://m.place.naver.com/place/2049379461",
+      "name": "진양우동",
+      "visitorReviews": 484,
+      "blogReviews": 29,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 129,
+      "url": "https://m.place.naver.com/place/1919575958",
+      "name": "왕눈이실내포차 진주가좌점",
+      "visitorReviews": 1744,
+      "blogReviews": 149,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 130,
+      "url": "https://m.place.naver.com/place/1979949567",
+      "name": "유우키 진주혁신도시점",
+      "visitorReviews": 394,
+      "blogReviews": 126,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 131,
+      "url": "https://m.place.naver.com/place/1658905917",
+      "name": "맥도날드 진주가좌DT점",
+      "visitorReviews": 3285,
+      "blogReviews": 108,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 132,
+      "url": "https://m.place.naver.com/place/1297050782",
+      "name": "슬로우비",
+      "visitorReviews": 117,
+      "blogReviews": 54,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 133,
+      "url": "https://m.place.naver.com/place/2018987709",
+      "name": "자갈자갈",
+      "visitorReviews": 86,
+      "blogReviews": 8,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 134,
+      "url": "https://m.place.naver.com/place/1827128356",
+      "name": "몬트쿠키 진주점",
+      "visitorReviews": 182,
+      "blogReviews": 139,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 135,
+      "url": "https://m.place.naver.com/place/1235055935",
+      "name": "고구려",
+      "visitorReviews": 775,
+      "blogReviews": 185,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 136,
+      "url": "https://m.place.naver.com/place/1379497338",
+      "name": "코즈믹버거 진주평거점",
+      "visitorReviews": 2959,
+      "blogReviews": 644,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 137,
+      "url": "https://m.place.naver.com/place/1440636558",
+      "name": "화이트리에 진주점",
+      "visitorReviews": 152,
+      "blogReviews": 116,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 138,
+      "url": "https://m.place.naver.com/place/1182203353",
+      "name": "동백카츠 진주역점",
+      "visitorReviews": 1427,
+      "blogReviews": 74,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 139,
+      "url": "https://m.place.naver.com/place/1024904665",
+      "name": "디모라",
+      "visitorReviews": 110,
+      "blogReviews": 45,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 140,
+      "url": "https://m.place.naver.com/place/1717790145",
+      "name": "바질리코 진주",
+      "visitorReviews": 252,
+      "blogReviews": 193,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 141,
+      "url": "https://m.place.naver.com/place/1064463408",
+      "name": "미분당 진주경상대점",
+      "visitorReviews": 1244,
+      "blogReviews": 59,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 142,
+      "url": "https://m.place.naver.com/place/1011809788",
+      "name": "승승양조",
+      "visitorReviews": 204,
+      "blogReviews": 107,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 143,
+      "url": "https://m.place.naver.com/place/2065334534",
+      "name": "모음집",
+      "visitorReviews": 120,
+      "blogReviews": 67,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 144,
+      "url": "https://m.place.naver.com/place/1292947457",
+      "name": "온하루케이크 진주점",
+      "visitorReviews": 1140,
+      "blogReviews": 162,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 145,
+      "url": "https://m.place.naver.com/place/1531845507",
+      "name": "육장장이",
+      "visitorReviews": 545,
+      "blogReviews": 692,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 146,
+      "url": "https://m.place.naver.com/place/1426843606",
+      "name": "에스코피에",
+      "visitorReviews": 301,
+      "blogReviews": 285,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 147,
+      "url": "https://m.place.naver.com/place/1468881736",
+      "name": "스타벅스 진주혁신도시점",
+      "visitorReviews": 3022,
+      "blogReviews": 162,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 148,
+      "url": "https://m.place.naver.com/place/1580630491",
+      "name": "히포히포 진주",
+      "visitorReviews": 1616,
+      "blogReviews": 135,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 149,
+      "url": "https://m.place.naver.com/place/1234994149",
+      "name": "금산바다횟집 상대점",
+      "visitorReviews": 722,
+      "blogReviews": 323,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 150,
+      "url": "https://m.place.naver.com/place/15421269",
+      "name": "망경식육식당",
+      "visitorReviews": 479,
+      "blogReviews": 184,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 151,
+      "url": "https://m.place.naver.com/place/1830740338",
+      "name": "투썸플레이스 진주교대점",
+      "visitorReviews": 321,
+      "blogReviews": 33,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 152,
+      "url": "https://m.place.naver.com/place/1458437119",
+      "name": "르빵드인사",
+      "visitorReviews": 387,
+      "blogReviews": 142,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 153,
+      "url": "https://m.place.naver.com/place/1809942636",
+      "name": "카페드펄",
+      "visitorReviews": 2419,
+      "blogReviews": 214,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 154,
+      "url": "https://m.place.naver.com/place/1677242458",
+      "name": "고반식당 진주하대점",
+      "visitorReviews": 267,
+      "blogReviews": 27,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 155,
+      "url": "https://m.place.naver.com/place/35819151",
+      "name": "땡초김밥본점",
+      "visitorReviews": 1164,
+      "blogReviews": 641,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 156,
+      "url": "https://m.place.naver.com/place/37689131",
+      "name": "강원도래요",
+      "visitorReviews": 183,
+      "blogReviews": 100,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 157,
+      "url": "https://m.place.naver.com/place/1523835503",
+      "name": "쿄와카레",
+      "visitorReviews": 43,
+      "blogReviews": 24,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 158,
+      "url": "https://m.place.naver.com/place/37486022",
+      "name": "스타벅스 진주평거점",
+      "visitorReviews": 4152,
+      "blogReviews": 108,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 159,
+      "url": "https://m.place.naver.com/place/1987012609",
+      "name": "파스타 플레이스",
+      "visitorReviews": 1099,
+      "blogReviews": 139,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 160,
+      "url": "https://m.place.naver.com/place/1050822037",
+      "name": "진주탭룸",
+      "visitorReviews": 351,
+      "blogReviews": 175,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 161,
+      "url": "https://m.place.naver.com/place/2025932795",
+      "name": "레이지오브썬",
+      "visitorReviews": 297,
+      "blogReviews": 18,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 162,
+      "url": "https://m.place.naver.com/place/1612799367",
+      "name": "샤브마니아 진주평거점",
+      "visitorReviews": 79,
+      "blogReviews": 48,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 163,
+      "url": "https://m.place.naver.com/place/1789521327",
+      "name": "수해복마라탕",
+      "visitorReviews": 996,
+      "blogReviews": 137,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 164,
+      "url": "https://m.place.naver.com/place/1115986118",
+      "name": "무위 케이크",
+      "visitorReviews": 377,
+      "blogReviews": 48,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 165,
+      "url": "https://m.place.naver.com/place/21478979",
+      "name": "맥도날드 진주칠암DT점",
+      "visitorReviews": 4593,
+      "blogReviews": 141,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 166,
+      "url": "https://m.place.naver.com/place/1938123017",
+      "name": "미소부엌 가좌점",
+      "visitorReviews": 2311,
+      "blogReviews": 54,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 167,
+      "url": "https://m.place.naver.com/place/1035688566",
+      "name": "오사장횟집",
+      "visitorReviews": 89,
+      "blogReviews": 74,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 168,
+      "url": "https://m.place.naver.com/place/1149793830",
+      "name": "로터스 커피앤 베이커리",
+      "visitorReviews": 1884,
+      "blogReviews": 555,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 169,
+      "url": "https://m.place.naver.com/place/1880869409",
+      "name": "고메",
+      "visitorReviews": 885,
+      "blogReviews": 198,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 170,
+      "url": "https://m.place.naver.com/place/2001595319",
+      "name": "스시하루 평거점",
+      "visitorReviews": 29,
+      "blogReviews": 43,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 171,
+      "url": "https://m.place.naver.com/place/1652700812",
+      "name": "단초 진주점",
+      "visitorReviews": 1036,
+      "blogReviews": 541,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 172,
+      "url": "https://m.place.naver.com/place/1160263950",
+      "name": "조커닭 진주본점",
+      "visitorReviews": 2101,
+      "blogReviews": 342,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 173,
+      "url": "https://m.place.naver.com/place/1091074079",
+      "name": "진주팥죽",
+      "visitorReviews": 671,
+      "blogReviews": 145,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 174,
+      "url": "https://m.place.naver.com/place/1813885534",
+      "name": "라쿵푸마라탕 진주점",
+      "visitorReviews": 1015,
+      "blogReviews": 148,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 175,
+      "url": "https://m.place.naver.com/place/1115881884",
+      "name": "고효",
+      "visitorReviews": 195,
+      "blogReviews": 22,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 176,
+      "url": "https://m.place.naver.com/place/1869420975",
+      "name": "투썸플레이스 진주역점",
+      "visitorReviews": 504,
+      "blogReviews": 18,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 177,
+      "url": "https://m.place.naver.com/place/34503564",
+      "name": "김태민발효쌀빵",
+      "visitorReviews": 816,
+      "blogReviews": 43,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 178,
+      "url": "https://m.place.naver.com/place/1289631878",
+      "name": "또오리식육식당 진주가좌동점",
+      "visitorReviews": 1099,
+      "blogReviews": 146,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 179,
+      "url": "https://m.place.naver.com/place/818940365",
+      "name": "낙지명가 아낙촌 평거점",
+      "visitorReviews": 1596,
+      "blogReviews": 254,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 180,
+      "url": "https://m.place.naver.com/place/32786116",
+      "name": "신안콩나물해장국",
+      "visitorReviews": 568,
+      "blogReviews": 104,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 181,
+      "url": "https://m.place.naver.com/place/1063865246",
+      "name": "거북선한우한돈숯불구이 진주혁신점",
+      "visitorReviews": 128,
+      "blogReviews": 59,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 182,
+      "url": "https://m.place.naver.com/place/1265512333",
+      "name": "푸른바다횟집",
+      "visitorReviews": 168,
+      "blogReviews": 35,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 183,
+      "url": "https://m.place.naver.com/place/1248203611",
+      "name": "화개마을 초전점",
+      "visitorReviews": 107,
+      "blogReviews": 72,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 184,
+      "url": "https://m.place.naver.com/place/1409680089",
+      "name": "백초밥 진주점",
+      "visitorReviews": 2494,
+      "blogReviews": 23,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 185,
+      "url": "https://m.place.naver.com/place/1847000520",
+      "name": "미분당 진주점",
+      "visitorReviews": 4544,
+      "blogReviews": 328,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 186,
+      "url": "https://m.place.naver.com/place/1687541323",
+      "name": "착한수산식당",
+      "visitorReviews": 163,
+      "blogReviews": 10,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 187,
+      "url": "https://m.place.naver.com/place/2070195348",
+      "name": "칼맛나는인생횟집",
+      "visitorReviews": 82,
+      "blogReviews": 22,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 188,
+      "url": "https://m.place.naver.com/place/15727575",
+      "name": "권돼지국밥",
+      "visitorReviews": 489,
+      "blogReviews": 280,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 189,
+      "url": "https://m.place.naver.com/place/1697372614",
+      "name": "에어리즈",
+      "visitorReviews": 392,
+      "blogReviews": 135,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 190,
+      "url": "https://m.place.naver.com/place/1105511862",
+      "name": "보리키친",
+      "visitorReviews": 910,
+      "blogReviews": 709,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 191,
+      "url": "https://m.place.naver.com/place/37944319",
+      "name": "카페 이층남자",
+      "visitorReviews": 380,
+      "blogReviews": 69,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 192,
+      "url": "https://m.place.naver.com/place/1628816154",
+      "name": "스타벅스 경상대칠암캠퍼스점",
+      "visitorReviews": 2056,
+      "blogReviews": 90,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 193,
+      "url": "https://m.place.naver.com/place/1578038346",
+      "name": "썬다운씬",
+      "visitorReviews": 396,
+      "blogReviews": 339,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 194,
+      "url": "https://m.place.naver.com/place/416186074",
+      "name": "화로싸나이 하대점",
+      "visitorReviews": 153,
+      "blogReviews": 51,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 195,
+      "url": "https://m.place.naver.com/place/1012893802",
+      "name": "서림양가",
+      "visitorReviews": 838,
+      "blogReviews": 113,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 196,
+      "url": "https://m.place.naver.com/place/1817685838",
+      "name": "타타스베이글 진주점",
+      "visitorReviews": 1939,
+      "blogReviews": 848,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 197,
+      "url": "https://m.place.naver.com/place/2043589664",
+      "name": "맛있는착한고기 평거점",
+      "visitorReviews": 191,
+      "blogReviews": 99,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 198,
+      "url": "https://m.place.naver.com/place/1846721166",
+      "name": "무궁화 1983 진주평거본점",
+      "visitorReviews": 764,
+      "blogReviews": 292,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 199,
+      "url": "https://m.place.naver.com/place/21436073",
+      "name": "막창도둑 진주평거점",
+      "visitorReviews": 2649,
+      "blogReviews": 550,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 200,
+      "url": "https://m.place.naver.com/place/1865543785",
+      "name": "노드 진주본점",
+      "visitorReviews": 2777,
+      "blogReviews": 698,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 201,
+      "url": "https://m.place.naver.com/place/1051261848",
+      "name": "봉자막창 진주평거점",
+      "visitorReviews": 2358,
+      "blogReviews": 63,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 202,
+      "url": "https://m.place.naver.com/place/1807571870",
+      "name": "샐러든 진주칠암본점",
+      "visitorReviews": 1166,
+      "blogReviews": 222,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 203,
+      "url": "https://m.place.naver.com/place/36960945",
+      "name": "박가네소금구이",
+      "visitorReviews": 879,
+      "blogReviews": 217,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 204,
+      "url": "https://m.place.naver.com/place/1704538245",
+      "name": "명성가 진주혁신점",
+      "visitorReviews": 615,
+      "blogReviews": 248,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 205,
+      "url": "https://m.place.naver.com/place/1143299680",
+      "name": "투썸플레이스 진주도동로점",
+      "visitorReviews": 192,
+      "blogReviews": 12,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 206,
+      "url": "https://m.place.naver.com/place/1963499868",
+      "name": "스타벅스 진주초전DT점",
+      "visitorReviews": 1079,
+      "blogReviews": 149,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 207,
+      "url": "https://m.place.naver.com/place/1828407910",
+      "name": "미뉴트프레첼하우스",
+      "visitorReviews": 806,
+      "blogReviews": 177,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 208,
+      "url": "https://m.place.naver.com/place/1902849051",
+      "name": "썬빔",
+      "visitorReviews": 42,
+      "blogReviews": 77,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 209,
+      "url": "https://m.place.naver.com/place/2042417993",
+      "name": "은갱이",
+      "visitorReviews": 57,
+      "blogReviews": 4,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 210,
+      "url": "https://m.place.naver.com/place/1854887844",
+      "name": "수심 진주평거본점",
+      "visitorReviews": 354,
+      "blogReviews": 130,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 211,
+      "url": "https://m.place.naver.com/place/15524893",
+      "name": "순토해송돌판닭찜 호탄본점",
+      "visitorReviews": 725,
+      "blogReviews": 374,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 212,
+      "url": "https://m.place.naver.com/place/1579477532",
+      "name": "엘더프랑 진주 인사직영점",
+      "visitorReviews": 294,
+      "blogReviews": 252,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 213,
+      "url": "https://m.place.naver.com/place/1161569263",
+      "name": "비스트로092",
+      "visitorReviews": 1003,
+      "blogReviews": 289,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 214,
+      "url": "https://m.place.naver.com/place/37483568",
+      "name": "알로하스시",
+      "visitorReviews": 3262,
+      "blogReviews": 292,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 215,
+      "url": "https://m.place.naver.com/place/1095464003",
+      "name": "호월",
+      "visitorReviews": 108,
+      "blogReviews": 33,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 216,
+      "url": "https://m.place.naver.com/place/1651976135",
+      "name": "마천흑돼지",
+      "visitorReviews": 365,
+      "blogReviews": 414,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 217,
+      "url": "https://m.place.naver.com/place/2080940702",
+      "name": "소호스트릿트마켓",
+      "visitorReviews": 8,
+      "blogReviews": 16,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 218,
+      "url": "https://m.place.naver.com/place/2071503280",
+      "name": "월아칼국수",
+      "visitorReviews": 620,
+      "blogReviews": 109,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 219,
+      "url": "https://m.place.naver.com/place/1757682952",
+      "name": "롤링핀 진주혁신도시점",
+      "visitorReviews": 2463,
+      "blogReviews": 86,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 220,
+      "url": "https://m.place.naver.com/place/1905825537",
+      "name": "토리동",
+      "visitorReviews": 1175,
+      "blogReviews": 76,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 221,
+      "url": "https://m.place.naver.com/place/1748568203",
+      "name": "선화식육식당 하대점",
+      "visitorReviews": 207,
+      "blogReviews": 46,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 222,
+      "url": "https://m.place.naver.com/place/1975156673",
+      "name": "장미맨숀 진주경상대점",
+      "visitorReviews": 382,
+      "blogReviews": 26,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 223,
+      "url": "https://m.place.naver.com/place/1560968973",
+      "name": "하대동팥빙수",
+      "visitorReviews": 1170,
+      "blogReviews": 407,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 224,
+      "url": "https://m.place.naver.com/place/2036380730",
+      "name": "오늘도연탄구이 진주본점",
+      "visitorReviews": 188,
+      "blogReviews": 627,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 225,
+      "url": "https://m.place.naver.com/place/1451387370",
+      "name": "브런치엘리",
+      "visitorReviews": 194,
+      "blogReviews": 25,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 226,
+      "url": "https://m.place.naver.com/place/1807483941",
+      "name": "진주사누끼 본점",
+      "visitorReviews": 350,
+      "blogReviews": 273,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 227,
+      "url": "https://m.place.naver.com/place/34203749",
+      "name": "스타벅스 진주중안점",
+      "visitorReviews": 3935,
+      "blogReviews": 103,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 228,
+      "url": "https://m.place.naver.com/place/1518604562",
+      "name": "미락",
+      "visitorReviews": 66,
+      "blogReviews": 140,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 229,
+      "url": "https://m.place.naver.com/place/284487407",
+      "name": "크리스피크림도넛 진주하대점",
+      "visitorReviews": 604,
+      "blogReviews": 31,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 230,
+      "url": "https://m.place.naver.com/place/1294121440",
+      "name": "왕눈이실내포차 진주하대본점",
+      "visitorReviews": 1519,
+      "blogReviews": 348,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 231,
+      "url": "https://m.place.naver.com/place/1056921099",
+      "name": "몽룡",
+      "visitorReviews": 21,
+      "blogReviews": 33,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 232,
+      "url": "https://m.place.naver.com/place/31536524",
+      "name": "참 지대루",
+      "visitorReviews": 612,
+      "blogReviews": 155,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 233,
+      "url": "https://m.place.naver.com/place/1172292933",
+      "name": "고미식당 진주가좌본점",
+      "visitorReviews": 1900,
+      "blogReviews": 241,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 234,
+      "url": "https://m.place.naver.com/place/1768685814",
+      "name": "투썸플레이스 진주세란병원점",
+      "visitorReviews": 641,
+      "blogReviews": 40,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 235,
+      "url": "https://m.place.naver.com/place/1022070231",
+      "name": "초가산장 진주본점",
+      "visitorReviews": 2388,
+      "blogReviews": 525,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 236,
+      "url": "https://m.place.naver.com/place/36430344",
+      "name": "땡초김밥옥봉점",
+      "visitorReviews": 281,
+      "blogReviews": 111,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 237,
+      "url": "https://m.place.naver.com/place/1144840665",
+      "name": "하우스 오브 금산",
+      "visitorReviews": 2582,
+      "blogReviews": 609,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 238,
+      "url": "https://m.place.naver.com/place/1930388673",
+      "name": "맛있는양꼬치 혁신본점",
+      "visitorReviews": 154,
+      "blogReviews": 71,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 239,
+      "url": "https://m.place.naver.com/place/2032703381",
+      "name": "MARRY DAY",
+      "visitorReviews": 121,
+      "blogReviews": 11,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 240,
+      "url": "https://m.place.naver.com/place/38693443",
+      "name": "두끼 롯데몰 진주점",
+      "visitorReviews": 669,
+      "blogReviews": 109,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 241,
+      "url": "https://m.place.naver.com/place/19485369",
+      "name": "진주은성게장",
+      "visitorReviews": 439,
+      "blogReviews": 218,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 242,
+      "url": "https://m.place.naver.com/place/1159625581",
+      "name": "미드테이블 진주평거점",
+      "visitorReviews": 352,
+      "blogReviews": 193,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 243,
+      "url": "https://m.place.naver.com/place/1014497415",
+      "name": "김형제고기의철학 진주혁신점",
+      "visitorReviews": 337,
+      "blogReviews": 44,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 244,
+      "url": "https://m.place.naver.com/place/1803219664",
+      "name": "돈스타무한리필 진주경상대점",
+      "visitorReviews": 368,
+      "blogReviews": 77,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 245,
+      "url": "https://m.place.naver.com/place/1360394864",
+      "name": "그라운드헤븐",
+      "visitorReviews": 873,
+      "blogReviews": 655,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 246,
+      "url": "https://m.place.naver.com/place/1340734956",
+      "name": "누볼라 진주혁신도시점",
+      "visitorReviews": 463,
+      "blogReviews": 247,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 247,
+      "url": "https://m.place.naver.com/place/1414424369",
+      "name": "더슬로우 베이커리카페 초전직영점",
+      "visitorReviews": 1152,
+      "blogReviews": 93,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 248,
+      "url": "https://m.place.naver.com/place/1591904251",
+      "name": "버거킹 진주하대DT점",
+      "visitorReviews": 913,
+      "blogReviews": 36,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 249,
+      "url": "https://m.place.naver.com/place/1375086049",
+      "name": "다인스그랜파",
+      "visitorReviews": 381,
+      "blogReviews": 234,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 250,
+      "url": "https://m.place.naver.com/place/1360375826",
+      "name": "베로쿠키",
+      "visitorReviews": 77,
+      "blogReviews": 200,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 251,
+      "url": "https://m.place.naver.com/place/2094531670",
+      "name": "멜트커피",
+      "visitorReviews": 27,
+      "blogReviews": 28,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 252,
+      "url": "https://m.place.naver.com/place/1198703289",
+      "name": "엘더프랑 진주초전본점",
+      "visitorReviews": 1076,
+      "blogReviews": 360,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 253,
+      "url": "https://m.place.naver.com/place/1766925177",
+      "name": "카페 뮈렌",
+      "visitorReviews": 536,
+      "blogReviews": 351,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 254,
+      "url": "https://m.place.naver.com/place/15509131",
+      "name": "강원도손순두부",
+      "visitorReviews": 1080,
+      "blogReviews": 267,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 255,
+      "url": "https://m.place.naver.com/place/1333129329",
+      "name": "롤링파스타 진주혁신도시점",
+      "visitorReviews": 179,
+      "blogReviews": 61,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 256,
+      "url": "https://m.place.naver.com/place/38520284",
+      "name": "삼촌네탕탕이",
+      "visitorReviews": 82,
+      "blogReviews": 50,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 257,
+      "url": "https://m.place.naver.com/place/15549867",
+      "name": "하연옥 하대동점",
+      "visitorReviews": 3462,
+      "blogReviews": 2016,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 258,
+      "url": "https://m.place.naver.com/place/1513329655",
+      "name": "스시쿄우다이",
+      "visitorReviews": 346,
+      "blogReviews": 217,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 259,
+      "url": "https://m.place.naver.com/place/1614091198",
+      "name": "KFC 진주이마트점",
+      "visitorReviews": 2274,
+      "blogReviews": 37,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 260,
+      "url": "https://m.place.naver.com/place/1075635012",
+      "name": "정짓간 숯불구이 전문점",
+      "visitorReviews": 205,
+      "blogReviews": 7,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 261,
+      "url": "https://m.place.naver.com/place/1131875677",
+      "name": "하연옥 촉석루점",
+      "visitorReviews": 3070,
+      "blogReviews": 891,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 262,
+      "url": "https://m.place.naver.com/place/860214417",
+      "name": "3시15분카페 신안본점",
+      "visitorReviews": 224,
+      "blogReviews": 48,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 263,
+      "url": "https://m.place.naver.com/place/1893399881",
+      "name": "모이정 진주점",
+      "visitorReviews": 38,
+      "blogReviews": 33,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 264,
+      "url": "https://m.place.naver.com/place/38461467",
+      "name": "조가비",
+      "visitorReviews": 202,
+      "blogReviews": 101,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 265,
+      "url": "https://m.place.naver.com/place/1406441207",
+      "name": "닌니쿠키",
+      "visitorReviews": 142,
+      "blogReviews": 45,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 266,
+      "url": "https://m.place.naver.com/place/11807423",
+      "name": "맥도날드 진주신안점",
+      "visitorReviews": 2474,
+      "blogReviews": 80,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 267,
+      "url": "https://m.place.naver.com/place/1171065111",
+      "name": "따기네",
+      "visitorReviews": 43,
+      "blogReviews": 61,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 268,
+      "url": "https://m.place.naver.com/place/1203011766",
+      "name": "미드테이블 진주혁신 본점",
+      "visitorReviews": 1181,
+      "blogReviews": 478,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 269,
+      "url": "https://m.place.naver.com/place/1703325285",
+      "name": "명륜진사갈비 진주신안점",
+      "visitorReviews": 344,
+      "blogReviews": 66,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 270,
+      "url": "https://m.place.naver.com/place/1742529145",
+      "name": "프랜치 진주평거본점",
+      "visitorReviews": 1793,
+      "blogReviews": 270,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 271,
+      "url": "https://m.place.naver.com/place/20775837",
+      "name": "한우마을",
+      "visitorReviews": 302,
+      "blogReviews": 50,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 272,
+      "url": "https://m.place.naver.com/place/2068856080",
+      "name": "오모이라멘 진주본점",
+      "visitorReviews": 113,
+      "blogReviews": 92,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 273,
+      "url": "https://m.place.naver.com/place/1262657745",
+      "name": "하이드파크",
+      "visitorReviews": 294,
+      "blogReviews": 299,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 274,
+      "url": "https://m.place.naver.com/place/1937614243",
+      "name": "MANGO",
+      "visitorReviews": 678,
+      "blogReviews": 73,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 275,
+      "url": "https://m.place.naver.com/place/11884253",
+      "name": "돼지랑 순대랑",
+      "visitorReviews": 711,
+      "blogReviews": 403,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 276,
+      "url": "https://m.place.naver.com/place/37995844",
+      "name": "곱창고 진주평거점",
+      "visitorReviews": 130,
+      "blogReviews": 125,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 277,
+      "url": "https://m.place.naver.com/place/38563334",
+      "name": "버거킹 진주혁신도시점",
+      "visitorReviews": 1611,
+      "blogReviews": 38,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 278,
+      "url": "https://m.place.naver.com/place/1306453398",
+      "name": "붕어빵 아자씨",
+      "visitorReviews": 11,
+      "blogReviews": 187,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 279,
+      "url": "https://m.place.naver.com/place/1197367700",
+      "name": "돌담한우숯불명가",
+      "visitorReviews": 208,
+      "blogReviews": 32,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 280,
+      "url": "https://m.place.naver.com/place/1821116182",
+      "name": "동대문엽기떡볶이 진주평거점",
+      "visitorReviews": 160,
+      "blogReviews": 26,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 281,
+      "url": "https://m.place.naver.com/place/1681242330",
+      "name": "명물부대찌개",
+      "visitorReviews": 287,
+      "blogReviews": 125,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 282,
+      "url": "https://m.place.naver.com/place/1146837248",
+      "name": "강가명가",
+      "visitorReviews": 358,
+      "blogReviews": 171,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 283,
+      "url": "https://m.place.naver.com/place/1787007842",
+      "name": "한우소리 진주점",
+      "visitorReviews": 675,
+      "blogReviews": 563,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 284,
+      "url": "https://m.place.naver.com/place/1884451843",
+      "name": "야키토리 아오이",
+      "visitorReviews": 438,
+      "blogReviews": 363,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 285,
+      "url": "https://m.place.naver.com/place/1508332267",
+      "name": "홈리스타코",
+      "visitorReviews": 3722,
+      "blogReviews": 3193,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 286,
+      "url": "https://m.place.naver.com/place/1901060467",
+      "name": "연해주",
+      "visitorReviews": 426,
+      "blogReviews": 405,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 287,
+      "url": "https://m.place.naver.com/place/15525285",
+      "name": "황포냉면",
+      "visitorReviews": 1955,
+      "blogReviews": 1280,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 288,
+      "url": "https://m.place.naver.com/place/1714711826",
+      "name": "르번미 진주점",
+      "visitorReviews": 1648,
+      "blogReviews": 243,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 289,
+      "url": "https://m.place.naver.com/place/1549341788",
+      "name": "맛있는 착한고기에 반하다 하대점",
+      "visitorReviews": 361,
+      "blogReviews": 34,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 290,
+      "url": "https://m.place.naver.com/place/1884383980",
+      "name": "노소",
+      "visitorReviews": 76,
+      "blogReviews": 34,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 291,
+      "url": "https://m.place.naver.com/place/32584083",
+      "name": "바르원돈까스앤밀면",
+      "visitorReviews": 471,
+      "blogReviews": 188,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 292,
+      "url": "https://m.place.naver.com/place/1527391090",
+      "name": "고집남 진주혁신도시점",
+      "visitorReviews": 911,
+      "blogReviews": 2327,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 293,
+      "url": "https://m.place.naver.com/place/1034673455",
+      "name": "일공공샤브 진주주약점",
+      "visitorReviews": 205,
+      "blogReviews": 146,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 294,
+      "url": "https://m.place.naver.com/place/15508016",
+      "name": "만리장성",
+      "visitorReviews": 189,
+      "blogReviews": 96,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 295,
+      "url": "https://m.place.naver.com/place/1655818862",
+      "name": "더세컨코너",
+      "visitorReviews": 89,
+      "blogReviews": 33,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 296,
+      "url": "https://m.place.naver.com/place/1261516003",
+      "name": "톤오우",
+      "visitorReviews": 521,
+      "blogReviews": 452,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 297,
+      "url": "https://m.place.naver.com/place/1577932684",
+      "name": "해탄 진주평거점",
+      "visitorReviews": 198,
+      "blogReviews": 327,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 298,
+      "url": "https://m.place.naver.com/place/1264408752",
+      "name": "빽다방 진주경상대후문점",
+      "visitorReviews": 839,
+      "blogReviews": 20,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 299,
+      "url": "https://m.place.naver.com/place/21608819",
+      "name": "마녀김밥24시",
+      "visitorReviews": 903,
+      "blogReviews": 80,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 300,
+      "url": "https://m.place.naver.com/place/31316815",
+      "name": "투썸플레이스 진주경상대점",
+      "visitorReviews": 1174,
+      "blogReviews": 88,
+      "bookingReviews": 0
+    }
+  ]
+}

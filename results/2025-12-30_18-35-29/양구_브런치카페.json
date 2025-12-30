@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "keyword": "양구 브런치카페",
+  "count": 6,
+  "results": [
+    {
+      "rank": 1,
+      "url": "https://m.place.naver.com/place/1406711070",
+      "name": "아인53 카페",
+      "visitorReviews": 294,
+      "blogReviews": 123,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://m.place.naver.com/place/1622173819",
+      "name": "애플트리",
+      "visitorReviews": 290,
+      "blogReviews": 29,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://m.place.naver.com/place/1589307788",
+      "name": "카페033",
+      "visitorReviews": 79,
+      "blogReviews": 127,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://m.place.naver.com/place/1263132783",
+      "name": "르쏠레이475",
+      "visitorReviews": 353,
+      "blogReviews": 39,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://m.place.naver.com/place/1492229621",
+      "name": "카페 테라스82",
+      "visitorReviews": 2,
+      "blogReviews": 10,
+      "bookingReviews": 0
+    },
+    {
+      "rank": 6,
+      "url": "https://m.place.naver.com/place/1221573233",
+      "name": "낮은달",
+      "visitorReviews": 13,
+      "blogReviews": 2,
+      "bookingReviews": 0
+    }
+  ]
+}
