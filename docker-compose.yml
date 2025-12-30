@@ -1,0 +1,7 @@
+services:
+  api:
+    image: naver-api:latest
+    container_name: naver_api
+    restart: unless-stopped
+    ports:
+      - "5001:5000"
