@@ -14,6 +14,12 @@ class ResultValidator:
         self.total_files = 0
         self.success_files = []
         self.error_files = defaultdict(list)
+        # 429 에러 세분화 통계
+        self.count_stats = {
+            "count_0": [],      # 0개 (완전 실패)
+            "count_100": [],    # 1~100개 (첫 페이지만 성공)
+            "count_200": []    # 101~200개 (두 번째 페이지까지 성공)
+        }
         
     def validate_file(self, filepath):
         """단일 JSON 파일 검증"""
@@ -107,29 +113,49 @@ class ResultValidator:
             }
     
     def validate_all(self):
-        """results 폴더의 모든 JSON 파일 검증"""
+        """results 폴더의 모든 JSON 파일 검증 (하위 폴더 포함)"""
         if not os.path.exists(self.results_dir):
             print(f"❌ '{self.results_dir}' 폴더를 찾을 수 없습니다.")
             return
-        
-        json_files = [f for f in os.listdir(self.results_dir) if f.endswith('.json')]
-        
+
+        # 하위 폴더 포함하여 모든 JSON 파일 찾기
+        json_files = []
+        for root, dirs, files in os.walk(self.results_dir):
+            for f in files:
+                # validation_report 파일은 제외
+                if f.endswith('.json') and not f.startswith('validation_report'):
+                    json_files.append(os.path.join(root, f))
+
         if not json_files:
             print(f"❌ '{self.results_dir}' 폴더에 JSON 파일이 없습니다.")
             return
-        
+
         self.total_files = len(json_files)
         print(f"📁 총 {self.total_files}개 파일 검증 중...\n")
-        
-        for filename in json_files:
-            filepath = os.path.join(self.results_dir, filename)
+
+        for filepath in json_files:
             result = self.validate_file(filepath)
-            
+
             if result.get('error_type'):
                 self.error_files[result['error_type']].append(result)
             else:
                 self.success_files.append(result)
-        
+
+            # 429 에러 통계 (정확히 0, 100, 200개인 경우만 429 에러로 간주)
+            count = result.get('count', 0)
+            item_info = {
+                "keyword": result.get('keyword', 'Unknown'),
+                "count": count
+            }
+            if count == 0:
+                self.count_stats["count_0"].append(item_info)
+            elif count == 100:
+                self.count_stats["count_100"].append(item_info)
+            elif count == 200:
+                self.count_stats["count_200"].append(item_info)
+
+            # 그 외 (1~99, 101~199)는 원래 결과가 적은 것이므로 무시
+
         self.print_report()
         self.save_report()
     
@@ -144,10 +170,18 @@ class ResultValidator:
         
         success_count = len(self.success_files)
         error_count = sum(len(files) for files in self.error_files.values())
-        
+
         print(f"\n✅ 정상: {success_count}개")
         print(f"❌ 에러: {error_count}개")
-        
+
+        # 429 에러 통계
+        print("\n" + "-"*80)
+        print("📈 429 에러 통계 (페이지별 실패)")
+        print("-"*80)
+        print(f"   🔴 0개 (첫 요청부터 429):     {len(self.count_stats['count_0'])}개")
+        print(f"   🟠 100개 (2페이지에서 429):   {len(self.count_stats['count_100'])}개")
+        print(f"   🟡 200개 (3페이지에서 429):   {len(self.count_stats['count_200'])}개")
+
         if not self.error_files:
             print("\n🎉 모든 파일이 정상적으로 크롤링되었습니다!")
             return
@@ -228,11 +262,16 @@ class ResultValidator:
         """검증 결과를 JSON 파일로 저장"""
         report = {
             "validation_time": datetime.now().isoformat(),
-            "results_dir": self.results_dir,
             "summary": {
                 "total_files": self.total_files,
                 "success_count": len(self.success_files),
                 "error_count": sum(len(files) for files in self.error_files.values())
+            },
+            "count_stats": {
+                "아예 0개 나온 갯수": len(self.count_stats["count_0"]),
+                "첫페이지 성공한 갯수(100개)": len(self.count_stats["count_100"]),
+                "두번째 성공한 갯수(200개)": len(self.count_stats["count_200"]),
+                "details": self.count_stats
             },
             "errors_by_type": {
                 error_type: [
@@ -258,7 +297,7 @@ class ResultValidator:
         
         # 리포트 파일 저장
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        report_filename = f"validation_report_{timestamp}.json"
+        report_filename = f"validation_report.json"
         report_filepath = os.path.join(self.results_dir, report_filename)
         
         with open(report_filepath, 'w', encoding='utf-8') as f:

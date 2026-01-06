@@ -3,7 +3,7 @@
 실행 시마다 날짜/시간 폴더에 결과 저장
 """
 
-from flask import Flask, request, jsonify, Response
+from flask import Flask, request, Response
 from flask_cors import CORS
 import json
 from datetime import datetime
@@ -13,14 +13,25 @@ from queue import Queue
 from collections import OrderedDict
 import os
 
-# 기존 place_fetch.py에서 가져오기
 from place_fetch import fetch_reviews, clean_and_convert_to_int
+from validate_results import ResultValidator
 
 app = Flask(__name__)
 CORS(app)
 
+def json_response(data, status=200):
+    """한글이 유니코드 이스케이프 없이 출력되는 JSON 응답"""
+    return Response(
+        json.dumps(data, ensure_ascii=False),
+        status=status,
+        mimetype='application/json'
+    )
+
 # 결과 저장 폴더 (실행 시 생성)
 BASE_RESULTS_DIR = "results"
+
+
+
 CURRENT_SESSION_DIR = None  # 현재 세션의 결과 폴더
 
 def create_session_folder():
@@ -46,8 +57,7 @@ job_results = OrderedDict()  # job_id -> result
 MAX_JOBS = 100  # 최대 저장할 작업 수
 
 
-def process_job(job_id, keywords, max_results):
-    """백그라운드에서 작업 처리"""
+def process_job(job_id, keywords, max_results, mode=None):
     try:
         job_results[job_id]['status'] = 'processing'
         job_results[job_id]['started_at'] = datetime.now().isoformat()
@@ -134,6 +144,24 @@ def process_job(job_id, keywords, max_results):
         job_results[job_id]['files'] = [f"{k.replace(' ', '_').replace('/', '_')}.json" for k in keywords]
         print(f"✅ [Job {job_id[:8]}] 완료 - 총 {total_count}개, 파일 {len(keywords)}개 생성")
 
+        # 결과 검증 (mode가 "debug"일 때만 실행)
+        if mode == "debug":
+            print(f"\n🔍 [Job {job_id[:8]}] 결과 검증 시작...")
+            validator = ResultValidator(CURRENT_SESSION_DIR)
+            validator.validate_all()
+            job_results[job_id]['validation'] = {
+                "success_count": len(validator.success_files),
+                "error_count": sum(len(files) for files in validator.error_files.values()),
+                "errors_by_type": {k: len(v) for k, v in validator.error_files.items()},
+                "count_stats": {
+                    "count_0_total_fail": len(validator.count_stats["count_0"]),
+                    "count_1_100_first_page": len(validator.count_stats["count_100"]),
+                    "count_101_200_second_page": len(validator.count_stats["count_200"]),
+                    "count_201_300_success": len(validator.count_stats["count_300"])
+                }
+            }
+            print(f"✅ [Job {job_id[:8]}] 결과 검증 완료")
+
     except Exception as e:
         job_results[job_id]['status'] = 'failed'
         job_results[job_id]['error'] = str(e)
@@ -146,8 +174,8 @@ def worker():
         job = job_queue.get()
         if job is None:
             break
-        job_id, keywords, max_results = job
-        process_job(job_id, keywords, max_results)
+        job_id, keywords, max_results, mode = job
+        process_job(job_id, keywords, max_results, mode)
         job_queue.task_done()
 
 
@@ -226,7 +254,7 @@ def create_query_payload(keyword, start=1, display=100):
 @app.route('/')
 def home():
     """API 정보 페이지"""
-    return jsonify({
+    return json_response({
         "service": "네이버 플레이스 크롤링 API v2",
         "version": "2.0",
         "current_session": CURRENT_SESSION_DIR,
@@ -266,10 +294,10 @@ def search():
         data = request.get_json()
 
         if not data or 'keyword' not in data:
-            return jsonify({
+            return json_response({
                 "success": False,
                 "error": "키워드(keyword)가 필요합니다."
-            }), 400
+            }, 400)
 
         keyword = data['keyword']
         max_results = data.get('maxResults', 300)
@@ -300,10 +328,10 @@ def search():
 
             if not results:
                 if page == 0:
-                    return jsonify({
+                    return json_response({
                         "success": False,
                         "error": "검색 결과가 없거나 요청에 실패했습니다."
-                    }), 500
+                    }, 300)
                 print(f"  - 더 이상 결과 없음")
                 break
 
@@ -324,7 +352,7 @@ def search():
 
         print(f"\n✅ {len(formatted_results)}개 결과 반환\n")
 
-        return jsonify({
+        return json_response({
             "success": True,
             "keyword": keyword,
             "count": len(formatted_results),
@@ -335,17 +363,17 @@ def search():
         print(f"\n❌ 에러 발생: {e}\n")
         import traceback
         traceback.print_exc()
-        
-        return jsonify({
+
+        return json_response({
             "success": False,
             "error": str(e)
-        }), 500
+        }, 300)
 
 
 @app.route('/health', methods=['GET'])
 def health():
     """헬스체크"""
-    return jsonify({
+    return json_response({
         "status": "healthy",
         "timestamp": datetime.now().isoformat(),
         "current_session": CURRENT_SESSION_DIR
@@ -370,19 +398,20 @@ def submit_job():
     data = request.get_json()
 
     if not data or 'keywords' not in data:
-        return jsonify({
+        return json_response({
             "success": False,
             "error": "키워드 배열(keywords)이 필요합니다."
-        }), 400
+        }, 400)
 
     keywords = data['keywords']
     max_results = data.get('maxResults', 300)
+    mode = data.get('mode', None)  # "debug" 모드일 때만 validation 실행
 
     if not isinstance(keywords, list):
-        return jsonify({
+        return json_response({
             "success": False,
             "error": "keywords는 배열이어야 합니다."
-        }), 400
+        }, 400)
 
     # Job ID 생성
     job_id = str(uuid.uuid4())
@@ -397,17 +426,18 @@ def submit_job():
         "progress": "대기 중...",
         "keywords": keywords,
         "maxResults": max_results,
+        "mode": mode,
         "created_at": datetime.now().isoformat(),
         "data": None,
         "session_folder": CURRENT_SESSION_DIR
     }
 
     # 큐에 추가
-    job_queue.put((job_id, keywords, max_results))
+    job_queue.put((job_id, keywords, max_results, mode))
 
     print(f"📥 [Job {job_id[:8]}] 큐에 추가됨 - 키워드: {keywords}")
 
-    return jsonify({
+    return json_response({
         "success": True,
         "jobId": job_id,
         "message": "작업이 큐에 추가되었습니다.",
@@ -420,10 +450,10 @@ def submit_job():
 def get_job_status(job_id):
     """작업 상태/결과 조회"""
     if job_id not in job_results:
-        return jsonify({
+        return json_response({
             "success": False,
             "error": "존재하지 않는 작업 ID입니다."
-        }), 404
+        }, 404)
 
     job = job_results[job_id]
 
@@ -441,10 +471,11 @@ def get_job_status(job_id):
     if job['status'] == 'completed':
         response['data'] = job['data']
         response['files'] = job.get('files', [])
+        response['validation'] = job.get('validation')
     elif job['status'] == 'failed':
         response['error'] = job.get('error', 'Unknown error')
 
-    return jsonify(response)
+    return json_response(response)
 
 
 @app.route('/api/queue', methods=['GET'])
@@ -461,7 +492,7 @@ def list_jobs():
             "sessionFolder": job.get('session_folder')
         })
 
-    return jsonify({
+    return json_response({
         "success": True,
         "count": len(jobs),
         "queueSize": job_queue.qsize(),
@@ -482,8 +513,6 @@ if __name__ == '__main__':
 🚀 서버 시작...
 📍 주소: http://localhost:5000
 📁 결과 저장: {folder}
-
-⚠️  주의: place_fetch.py 파일이 같은 폴더에 있어야 합니다!
 
     """.format(folder=CURRENT_SESSION_DIR))
 
