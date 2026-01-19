@@ -1,1 +1,1 @@
-tsx로 크롤링 만듬 
+python 으로  vpn 사용한 거 
